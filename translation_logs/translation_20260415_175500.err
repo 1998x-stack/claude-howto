@@ -1,0 +1,1073 @@
+2026-04-15 17:55:00 - INFO - ============================================================
+2026-04-15 17:55:00 - INFO - 🌏 Markdown Translation System Starting
+2026-04-15 17:55:00 - INFO - ============================================================
+2026-04-15 17:55:00 - INFO - Root directory: /Users/xd/Desktop/codes/claude-howto
+2026-04-15 17:55:00 - INFO - Concurrent workers: 5
+2026-04-15 17:55:00 - INFO - Resume enabled: True
+2026-04-15 17:55:00 - INFO - 🔍 Discovering markdown files...
+2026-04-15 17:55:00 - INFO - Found 81 files to translate
+2026-04-15 17:55:00 - INFO - 🚀 Starting translation of 81 files
+2026-04-15 17:55:00 - INFO - Resuming: 0 completed, 30 failed
+2026-04-15 17:55:00 - INFO - Processing 81 files with concurrency 5
+2026-04-15 17:55:00 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/uk/03-skills/blog-draft/SKILL.md (attempt 1)
+2026-04-15 17:55:00 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/09-advanced-features/README.md (attempt 1)
+2026-04-15 17:55:00 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/uk/clean-code-rules.md (attempt 1)
+2026-04-15 17:55:00 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/uk/03-skills/claude-md/SKILL.md (attempt 1)
+2026-04-15 17:55:00 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/09-advanced-features/planning-mode-examples.md (attempt 1)
+2026-04-15 17:55:30 - ERROR - Translation failed: 
+2026-04-15 17:55:30 - ERROR - Attempt 1 failed for /Users/xd/Desktop/codes/claude-howto/uk/clean-code-rules.md: 
+2026-04-15 17:55:30 - INFO - Retrying in 2s...
+2026-04-15 17:55:30 - ERROR - Translation failed: 
+2026-04-15 17:55:30 - ERROR - Attempt 1 failed for /Users/xd/Desktop/codes/claude-howto/09-advanced-features/planning-mode-examples.md: 
+2026-04-15 17:55:30 - INFO - Retrying in 2s...
+2026-04-15 17:55:30 - ERROR - Translation failed: 
+2026-04-15 17:55:30 - ERROR - Attempt 1 failed for /Users/xd/Desktop/codes/claude-howto/09-advanced-features/README.md: 
+2026-04-15 17:55:30 - INFO - Retrying in 2s...
+2026-04-15 17:55:30 - ERROR - Translation failed: 
+2026-04-15 17:55:30 - ERROR - Attempt 1 failed for /Users/xd/Desktop/codes/claude-howto/uk/03-skills/claude-md/SKILL.md: 
+2026-04-15 17:55:30 - INFO - Retrying in 2s...
+2026-04-15 17:55:30 - ERROR - Translation failed: 
+2026-04-15 17:55:30 - ERROR - Attempt 1 failed for /Users/xd/Desktop/codes/claude-howto/uk/03-skills/blog-draft/SKILL.md: 
+2026-04-15 17:55:30 - INFO - Retrying in 2s...
+2026-04-15 17:55:32 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/uk/clean-code-rules.md (attempt 2)
+2026-04-15 17:55:32 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/09-advanced-features/planning-mode-examples.md (attempt 2)
+2026-04-15 17:55:32 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/09-advanced-features/README.md (attempt 2)
+2026-04-15 17:55:32 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/uk/03-skills/claude-md/SKILL.md (attempt 2)
+2026-04-15 17:55:32 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/uk/03-skills/blog-draft/SKILL.md (attempt 2)
+2026-04-15 17:56:02 - ERROR - Translation failed: 
+2026-04-15 17:56:02 - ERROR - Attempt 2 failed for /Users/xd/Desktop/codes/claude-howto/uk/clean-code-rules.md: 
+2026-04-15 17:56:02 - INFO - Retrying in 4s...
+2026-04-15 17:56:02 - ERROR - Translation failed: 
+2026-04-15 17:56:02 - ERROR - Attempt 2 failed for /Users/xd/Desktop/codes/claude-howto/09-advanced-features/README.md: 
+2026-04-15 17:56:02 - INFO - Retrying in 4s...
+2026-04-15 17:56:02 - ERROR - Translation failed: 
+2026-04-15 17:56:02 - ERROR - Attempt 2 failed for /Users/xd/Desktop/codes/claude-howto/uk/03-skills/blog-draft/SKILL.md: 
+2026-04-15 17:56:02 - INFO - Retrying in 4s...
+2026-04-15 17:56:02 - ERROR - Translation failed: 
+2026-04-15 17:56:02 - ERROR - Attempt 2 failed for /Users/xd/Desktop/codes/claude-howto/09-advanced-features/planning-mode-examples.md: 
+2026-04-15 17:56:02 - INFO - Retrying in 4s...
+2026-04-15 17:56:02 - ERROR - Translation failed: 
+2026-04-15 17:56:02 - ERROR - Attempt 2 failed for /Users/xd/Desktop/codes/claude-howto/uk/03-skills/claude-md/SKILL.md: 
+2026-04-15 17:56:02 - INFO - Retrying in 4s...
+2026-04-15 17:56:06 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/uk/clean-code-rules.md (attempt 3)
+2026-04-15 17:56:06 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/09-advanced-features/README.md (attempt 3)
+2026-04-15 17:56:06 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/uk/03-skills/blog-draft/SKILL.md (attempt 3)
+2026-04-15 17:56:06 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/09-advanced-features/planning-mode-examples.md (attempt 3)
+2026-04-15 17:56:06 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/uk/03-skills/claude-md/SKILL.md (attempt 3)
+2026-04-15 17:56:36 - ERROR - Translation failed: 
+2026-04-15 17:56:36 - ERROR - Attempt 3 failed for /Users/xd/Desktop/codes/claude-howto/09-advanced-features/README.md: 
+2026-04-15 17:56:36 - ERROR - ❌ Failed after 3 attempts: /Users/xd/Desktop/codes/claude-howto/09-advanced-features/README.md
+2026-04-15 17:56:36 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/uk/docs/ROADMAP-20260401.md (attempt 1)
+2026-04-15 17:56:36 - INFO - Progress: 1/81 - ❌ 09-advanced-features/README.md
+2026-04-15 17:56:36 - ERROR - Translation failed: 
+2026-04-15 17:56:36 - ERROR - Attempt 3 failed for /Users/xd/Desktop/codes/claude-howto/uk/03-skills/blog-draft/SKILL.md: 
+2026-04-15 17:56:36 - ERROR - ❌ Failed after 3 attempts: /Users/xd/Desktop/codes/claude-howto/uk/03-skills/blog-draft/SKILL.md
+2026-04-15 17:56:36 - ERROR - Translation failed: 
+2026-04-15 17:56:36 - ERROR - Attempt 3 failed for /Users/xd/Desktop/codes/claude-howto/uk/clean-code-rules.md: 
+2026-04-15 17:56:36 - ERROR - ❌ Failed after 3 attempts: /Users/xd/Desktop/codes/claude-howto/uk/clean-code-rules.md
+2026-04-15 17:56:36 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/uk/03-skills/refactor/SKILL.md (attempt 1)
+2026-04-15 17:56:36 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/10-cli/README.md (attempt 1)
+2026-04-15 17:56:36 - ERROR - Translation failed: 
+2026-04-15 17:56:36 - ERROR - Attempt 3 failed for /Users/xd/Desktop/codes/claude-howto/09-advanced-features/planning-mode-examples.md: 
+2026-04-15 17:56:36 - ERROR - ❌ Failed after 3 attempts: /Users/xd/Desktop/codes/claude-howto/09-advanced-features/planning-mode-examples.md
+2026-04-15 17:56:36 - INFO - Progress: 2/81 - ❌ uk/03-skills/blog-draft/SKILL.md
+2026-04-15 17:56:36 - INFO - Progress: 3/81 - ❌ uk/clean-code-rules.md
+2026-04-15 17:56:36 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/uk/docs/TASKS-20260401.md (attempt 1)
+2026-04-15 17:56:36 - INFO - Progress: 4/81 - ❌ 09-advanced-features/planning-mode-examples.md
+2026-04-15 17:56:36 - ERROR - Translation failed: 
+2026-04-15 17:56:36 - ERROR - Attempt 3 failed for /Users/xd/Desktop/codes/claude-howto/uk/03-skills/claude-md/SKILL.md: 
+2026-04-15 17:56:36 - ERROR - ❌ Failed after 3 attempts: /Users/xd/Desktop/codes/claude-howto/uk/03-skills/claude-md/SKILL.md
+2026-04-15 17:56:36 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/uk/03-skills/refactor/references/code-smells.md (attempt 1)
+2026-04-15 17:56:36 - INFO - Progress: 5/81 - ❌ uk/03-skills/claude-md/SKILL.md
+2026-04-15 17:57:06 - ERROR - Translation failed: 
+2026-04-15 17:57:06 - ERROR - Attempt 1 failed for /Users/xd/Desktop/codes/claude-howto/uk/03-skills/refactor/SKILL.md: 
+2026-04-15 17:57:06 - INFO - Retrying in 2s...
+2026-04-15 17:57:06 - ERROR - Translation failed: 
+2026-04-15 17:57:06 - ERROR - Attempt 1 failed for /Users/xd/Desktop/codes/claude-howto/uk/docs/ROADMAP-20260401.md: 
+2026-04-15 17:57:06 - INFO - Retrying in 2s...
+2026-04-15 17:57:06 - ERROR - Translation failed: 
+2026-04-15 17:57:06 - ERROR - Attempt 1 failed for /Users/xd/Desktop/codes/claude-howto/uk/03-skills/refactor/references/code-smells.md: 
+2026-04-15 17:57:06 - INFO - Retrying in 2s...
+2026-04-15 17:57:07 - ERROR - Translation failed: 
+2026-04-15 17:57:07 - ERROR - Attempt 1 failed for /Users/xd/Desktop/codes/claude-howto/uk/docs/TASKS-20260401.md: 
+2026-04-15 17:57:07 - INFO - Retrying in 2s...
+2026-04-15 17:57:07 - ERROR - Translation failed: 
+2026-04-15 17:57:07 - ERROR - Attempt 1 failed for /Users/xd/Desktop/codes/claude-howto/10-cli/README.md: 
+2026-04-15 17:57:07 - INFO - Retrying in 2s...
+2026-04-15 17:57:08 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/uk/03-skills/refactor/SKILL.md (attempt 2)
+2026-04-15 17:57:08 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/uk/docs/ROADMAP-20260401.md (attempt 2)
+2026-04-15 17:57:08 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/uk/03-skills/refactor/references/code-smells.md (attempt 2)
+2026-04-15 17:57:09 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/uk/docs/TASKS-20260401.md (attempt 2)
+2026-04-15 17:57:09 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/10-cli/README.md (attempt 2)
+2026-04-15 17:57:39 - ERROR - Translation failed: 
+2026-04-15 17:57:39 - ERROR - Attempt 2 failed for /Users/xd/Desktop/codes/claude-howto/uk/docs/ROADMAP-20260401.md: 
+2026-04-15 17:57:39 - INFO - Retrying in 4s...
+2026-04-15 17:57:39 - ERROR - Translation failed: 
+2026-04-15 17:57:39 - ERROR - Attempt 2 failed for /Users/xd/Desktop/codes/claude-howto/uk/03-skills/refactor/references/code-smells.md: 
+2026-04-15 17:57:39 - INFO - Retrying in 4s...
+2026-04-15 17:57:39 - ERROR - Translation failed: 
+2026-04-15 17:57:39 - ERROR - Attempt 2 failed for /Users/xd/Desktop/codes/claude-howto/uk/03-skills/refactor/SKILL.md: 
+2026-04-15 17:57:39 - INFO - Retrying in 4s...
+2026-04-15 17:57:39 - ERROR - Translation failed: 
+2026-04-15 17:57:39 - ERROR - Attempt 2 failed for /Users/xd/Desktop/codes/claude-howto/uk/docs/TASKS-20260401.md: 
+2026-04-15 17:57:39 - INFO - Retrying in 4s...
+2026-04-15 17:57:39 - ERROR - Translation failed: 
+2026-04-15 17:57:39 - ERROR - Attempt 2 failed for /Users/xd/Desktop/codes/claude-howto/10-cli/README.md: 
+2026-04-15 17:57:39 - INFO - Retrying in 4s...
+2026-04-15 17:57:43 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/uk/docs/ROADMAP-20260401.md (attempt 3)
+2026-04-15 17:57:43 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/uk/03-skills/refactor/references/code-smells.md (attempt 3)
+2026-04-15 17:57:43 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/uk/03-skills/refactor/SKILL.md (attempt 3)
+2026-04-15 17:57:43 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/uk/docs/TASKS-20260401.md (attempt 3)
+2026-04-15 17:57:43 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/10-cli/README.md (attempt 3)
+2026-04-15 17:58:13 - ERROR - Translation failed: 
+2026-04-15 17:58:13 - ERROR - Attempt 3 failed for /Users/xd/Desktop/codes/claude-howto/uk/03-skills/refactor/SKILL.md: 
+2026-04-15 17:58:13 - ERROR - ❌ Failed after 3 attempts: /Users/xd/Desktop/codes/claude-howto/uk/03-skills/refactor/SKILL.md
+2026-04-15 17:58:13 - ERROR - Translation failed: 
+2026-04-15 17:58:13 - ERROR - Attempt 3 failed for /Users/xd/Desktop/codes/claude-howto/uk/03-skills/refactor/references/code-smells.md: 
+2026-04-15 17:58:13 - ERROR - ❌ Failed after 3 attempts: /Users/xd/Desktop/codes/claude-howto/uk/03-skills/refactor/references/code-smells.md
+2026-04-15 17:58:13 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/CATALOG.md (attempt 1)
+2026-04-15 17:58:13 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/uk/prompts/remotion-video.md (attempt 1)
+2026-04-15 17:58:13 - INFO - Progress: 6/81 - ❌ uk/03-skills/refactor/SKILL.md
+2026-04-15 17:58:13 - INFO - Progress: 7/81 - ❌ uk/03-skills/refactor/references/code-smells.md
+2026-04-15 17:58:13 - ERROR - Translation failed: 
+2026-04-15 17:58:13 - ERROR - Attempt 3 failed for /Users/xd/Desktop/codes/claude-howto/uk/docs/ROADMAP-20260401.md: 
+2026-04-15 17:58:13 - ERROR - ❌ Failed after 3 attempts: /Users/xd/Desktop/codes/claude-howto/uk/docs/ROADMAP-20260401.md
+2026-04-15 17:58:13 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/uk/03-skills/refactor/references/refactoring-catalog.md (attempt 1)
+2026-04-15 17:58:13 - ERROR - Translation failed: 
+2026-04-15 17:58:13 - ERROR - Attempt 3 failed for /Users/xd/Desktop/codes/claude-howto/10-cli/README.md: 
+2026-04-15 17:58:13 - ERROR - ❌ Failed after 3 attempts: /Users/xd/Desktop/codes/claude-howto/10-cli/README.md
+2026-04-15 17:58:13 - ERROR - Translation failed: 
+2026-04-15 17:58:13 - ERROR - Attempt 3 failed for /Users/xd/Desktop/codes/claude-howto/uk/docs/TASKS-20260401.md: 
+2026-04-15 17:58:13 - ERROR - ❌ Failed after 3 attempts: /Users/xd/Desktop/codes/claude-howto/uk/docs/TASKS-20260401.md
+2026-04-15 17:58:13 - INFO - Progress: 8/81 - ❌ uk/docs/ROADMAP-20260401.md
+2026-04-15 17:58:13 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/CHANGELOG.md (attempt 1)
+2026-04-15 17:58:13 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/uk/resources/DESIGN-SYSTEM.md (attempt 1)
+2026-04-15 17:58:13 - INFO - Progress: 9/81 - ❌ 10-cli/README.md
+2026-04-15 17:58:13 - INFO - Progress: 10/81 - ❌ uk/docs/TASKS-20260401.md
+2026-04-15 17:58:43 - ERROR - Translation failed: 
+2026-04-15 17:58:43 - ERROR - Attempt 1 failed for /Users/xd/Desktop/codes/claude-howto/uk/resources/DESIGN-SYSTEM.md: 
+2026-04-15 17:58:43 - INFO - Retrying in 2s...
+2026-04-15 17:58:43 - ERROR - Translation failed: 
+2026-04-15 17:58:43 - ERROR - Attempt 1 failed for /Users/xd/Desktop/codes/claude-howto/uk/03-skills/refactor/references/refactoring-catalog.md: 
+2026-04-15 17:58:43 - INFO - Retrying in 2s...
+2026-04-15 17:58:43 - ERROR - Translation failed: 
+2026-04-15 17:58:43 - ERROR - Attempt 1 failed for /Users/xd/Desktop/codes/claude-howto/CATALOG.md: 
+2026-04-15 17:58:43 - INFO - Retrying in 2s...
+2026-04-15 17:58:43 - ERROR - Translation failed: 
+2026-04-15 17:58:43 - ERROR - Attempt 1 failed for /Users/xd/Desktop/codes/claude-howto/CHANGELOG.md: 
+2026-04-15 17:58:43 - INFO - Retrying in 2s...
+2026-04-15 17:58:43 - ERROR - Translation failed: 
+2026-04-15 17:58:43 - ERROR - Attempt 1 failed for /Users/xd/Desktop/codes/claude-howto/uk/prompts/remotion-video.md: 
+2026-04-15 17:58:43 - INFO - Retrying in 2s...
+2026-04-15 17:58:45 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/uk/resources/DESIGN-SYSTEM.md (attempt 2)
+2026-04-15 17:58:45 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/uk/03-skills/refactor/references/refactoring-catalog.md (attempt 2)
+2026-04-15 17:58:45 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/CATALOG.md (attempt 2)
+2026-04-15 17:58:45 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/CHANGELOG.md (attempt 2)
+2026-04-15 17:58:45 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/uk/prompts/remotion-video.md (attempt 2)
+2026-04-15 17:59:15 - ERROR - Translation failed: 
+2026-04-15 17:59:15 - ERROR - Attempt 2 failed for /Users/xd/Desktop/codes/claude-howto/uk/prompts/remotion-video.md: 
+2026-04-15 17:59:15 - INFO - Retrying in 4s...
+2026-04-15 17:59:15 - ERROR - Translation failed: 
+2026-04-15 17:59:15 - ERROR - Attempt 2 failed for /Users/xd/Desktop/codes/claude-howto/uk/03-skills/refactor/references/refactoring-catalog.md: 
+2026-04-15 17:59:15 - INFO - Retrying in 4s...
+2026-04-15 17:59:15 - ERROR - Translation failed: 
+2026-04-15 17:59:15 - ERROR - Attempt 2 failed for /Users/xd/Desktop/codes/claude-howto/CHANGELOG.md: 
+2026-04-15 17:59:15 - INFO - Retrying in 4s...
+2026-04-15 17:59:15 - ERROR - Translation failed: 
+2026-04-15 17:59:15 - ERROR - Attempt 2 failed for /Users/xd/Desktop/codes/claude-howto/CATALOG.md: 
+2026-04-15 17:59:15 - INFO - Retrying in 4s...
+2026-04-15 17:59:15 - ERROR - Translation failed: 
+2026-04-15 17:59:15 - ERROR - Attempt 2 failed for /Users/xd/Desktop/codes/claude-howto/uk/resources/DESIGN-SYSTEM.md: 
+2026-04-15 17:59:15 - INFO - Retrying in 4s...
+2026-04-15 17:59:19 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/uk/prompts/remotion-video.md (attempt 3)
+2026-04-15 17:59:19 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/uk/03-skills/refactor/references/refactoring-catalog.md (attempt 3)
+2026-04-15 17:59:19 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/CHANGELOG.md (attempt 3)
+2026-04-15 17:59:19 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/CATALOG.md (attempt 3)
+2026-04-15 17:59:19 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/uk/resources/DESIGN-SYSTEM.md (attempt 3)
+2026-04-15 17:59:49 - ERROR - Translation failed: 
+2026-04-15 17:59:49 - ERROR - Attempt 3 failed for /Users/xd/Desktop/codes/claude-howto/uk/03-skills/refactor/references/refactoring-catalog.md: 
+2026-04-15 17:59:49 - ERROR - ❌ Failed after 3 attempts: /Users/xd/Desktop/codes/claude-howto/uk/03-skills/refactor/references/refactoring-catalog.md
+2026-04-15 17:59:49 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/uk/03-skills/refactor/templates/refactoring-plan.md (attempt 1)
+2026-04-15 17:59:49 - INFO - Progress: 11/81 - ❌ uk/03-skills/refactor/references/refactoring-catalog.md
+2026-04-15 17:59:49 - ERROR - Translation failed: 
+2026-04-15 17:59:49 - ERROR - Attempt 3 failed for /Users/xd/Desktop/codes/claude-howto/CHANGELOG.md: 
+2026-04-15 17:59:49 - ERROR - ❌ Failed after 3 attempts: /Users/xd/Desktop/codes/claude-howto/CHANGELOG.md
+2026-04-15 17:59:49 - ERROR - Translation failed: 
+2026-04-15 17:59:49 - ERROR - Attempt 3 failed for /Users/xd/Desktop/codes/claude-howto/uk/resources/DESIGN-SYSTEM.md: 
+2026-04-15 17:59:49 - ERROR - ❌ Failed after 3 attempts: /Users/xd/Desktop/codes/claude-howto/uk/resources/DESIGN-SYSTEM.md
+2026-04-15 17:59:49 - ERROR - Translation failed: 
+2026-04-15 17:59:49 - ERROR - Attempt 3 failed for /Users/xd/Desktop/codes/claude-howto/uk/prompts/remotion-video.md: 
+2026-04-15 17:59:49 - ERROR - ❌ Failed after 3 attempts: /Users/xd/Desktop/codes/claude-howto/uk/prompts/remotion-video.md
+2026-04-15 17:59:49 - ERROR - Translation failed: 
+2026-04-15 17:59:49 - ERROR - Attempt 3 failed for /Users/xd/Desktop/codes/claude-howto/CATALOG.md: 
+2026-04-15 17:59:49 - ERROR - ❌ Failed after 3 attempts: /Users/xd/Desktop/codes/claude-howto/CATALOG.md
+2026-04-15 17:59:49 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/CLAUDE.md (attempt 1)
+2026-04-15 17:59:49 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/uk/resources/README.md (attempt 1)
+2026-04-15 17:59:49 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/uk/04-subagents/README.md (attempt 1)
+2026-04-15 17:59:49 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/CODE_OF_CONDUCT.md (attempt 1)
+2026-04-15 17:59:49 - INFO - Progress: 12/81 - ❌ CHANGELOG.md
+2026-04-15 17:59:49 - INFO - Progress: 13/81 - ❌ uk/resources/DESIGN-SYSTEM.md
+2026-04-15 17:59:49 - INFO - Progress: 14/81 - ❌ uk/prompts/remotion-video.md
+2026-04-15 17:59:49 - INFO - Progress: 15/81 - ❌ CATALOG.md
+2026-04-15 18:00:19 - ERROR - Translation failed: 
+2026-04-15 18:00:19 - ERROR - Attempt 1 failed for /Users/xd/Desktop/codes/claude-howto/uk/04-subagents/README.md: 
+2026-04-15 18:00:19 - INFO - Retrying in 2s...
+2026-04-15 18:00:19 - ERROR - Translation failed: 
+2026-04-15 18:00:19 - ERROR - Attempt 1 failed for /Users/xd/Desktop/codes/claude-howto/uk/resources/README.md: 
+2026-04-15 18:00:19 - INFO - Retrying in 2s...
+2026-04-15 18:00:19 - ERROR - Translation failed: 
+2026-04-15 18:00:19 - ERROR - Attempt 1 failed for /Users/xd/Desktop/codes/claude-howto/uk/03-skills/refactor/templates/refactoring-plan.md: 
+2026-04-15 18:00:19 - INFO - Retrying in 2s...
+2026-04-15 18:00:19 - ERROR - Translation failed: 
+2026-04-15 18:00:19 - ERROR - Attempt 1 failed for /Users/xd/Desktop/codes/claude-howto/CLAUDE.md: 
+2026-04-15 18:00:19 - INFO - Retrying in 2s...
+2026-04-15 18:00:19 - ERROR - Translation failed: 
+2026-04-15 18:00:19 - ERROR - Attempt 1 failed for /Users/xd/Desktop/codes/claude-howto/CODE_OF_CONDUCT.md: 
+2026-04-15 18:00:19 - INFO - Retrying in 2s...
+2026-04-15 18:00:21 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/uk/04-subagents/README.md (attempt 2)
+2026-04-15 18:00:21 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/uk/resources/README.md (attempt 2)
+2026-04-15 18:00:21 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/uk/03-skills/refactor/templates/refactoring-plan.md (attempt 2)
+2026-04-15 18:00:21 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/CLAUDE.md (attempt 2)
+2026-04-15 18:00:21 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/CODE_OF_CONDUCT.md (attempt 2)
+2026-04-15 18:00:52 - ERROR - Translation failed: 
+2026-04-15 18:00:52 - ERROR - Attempt 2 failed for /Users/xd/Desktop/codes/claude-howto/uk/04-subagents/README.md: 
+2026-04-15 18:00:52 - INFO - Retrying in 4s...
+2026-04-15 18:00:52 - ERROR - Translation failed: 
+2026-04-15 18:00:52 - ERROR - Attempt 2 failed for /Users/xd/Desktop/codes/claude-howto/uk/resources/README.md: 
+2026-04-15 18:00:52 - INFO - Retrying in 4s...
+2026-04-15 18:00:52 - ERROR - Translation failed: 
+2026-04-15 18:00:52 - ERROR - Attempt 2 failed for /Users/xd/Desktop/codes/claude-howto/CODE_OF_CONDUCT.md: 
+2026-04-15 18:00:52 - INFO - Retrying in 4s...
+2026-04-15 18:00:52 - ERROR - Translation failed: 
+2026-04-15 18:00:52 - ERROR - Attempt 2 failed for /Users/xd/Desktop/codes/claude-howto/uk/03-skills/refactor/templates/refactoring-plan.md: 
+2026-04-15 18:00:52 - INFO - Retrying in 4s...
+2026-04-15 18:00:52 - ERROR - Translation failed: 
+2026-04-15 18:00:52 - ERROR - Attempt 2 failed for /Users/xd/Desktop/codes/claude-howto/CLAUDE.md: 
+2026-04-15 18:00:52 - INFO - Retrying in 4s...
+2026-04-15 18:00:56 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/uk/04-subagents/README.md (attempt 3)
+2026-04-15 18:00:56 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/uk/resources/README.md (attempt 3)
+2026-04-15 18:00:56 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/CODE_OF_CONDUCT.md (attempt 3)
+2026-04-15 18:00:56 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/uk/03-skills/refactor/templates/refactoring-plan.md (attempt 3)
+2026-04-15 18:00:56 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/CLAUDE.md (attempt 3)
+2026-04-15 18:01:26 - ERROR - Translation failed: 
+2026-04-15 18:01:26 - ERROR - Attempt 3 failed for /Users/xd/Desktop/codes/claude-howto/CODE_OF_CONDUCT.md: 
+2026-04-15 18:01:26 - ERROR - ❌ Failed after 3 attempts: /Users/xd/Desktop/codes/claude-howto/CODE_OF_CONDUCT.md
+2026-04-15 18:01:26 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/uk/resources.md (attempt 1)
+2026-04-15 18:01:26 - INFO - Progress: 16/81 - ❌ CODE_OF_CONDUCT.md
+2026-04-15 18:01:26 - ERROR - Translation failed: 
+2026-04-15 18:01:26 - ERROR - Attempt 3 failed for /Users/xd/Desktop/codes/claude-howto/uk/resources/README.md: 
+2026-04-15 18:01:26 - ERROR - ❌ Failed after 3 attempts: /Users/xd/Desktop/codes/claude-howto/uk/resources/README.md
+2026-04-15 18:01:26 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/uk/04-subagents/performance-optimizer.md (attempt 1)
+2026-04-15 18:01:26 - ERROR - Translation failed: 
+2026-04-15 18:01:26 - ERROR - Attempt 3 failed for /Users/xd/Desktop/codes/claude-howto/uk/03-skills/refactor/templates/refactoring-plan.md: 
+2026-04-15 18:01:26 - ERROR - ❌ Failed after 3 attempts: /Users/xd/Desktop/codes/claude-howto/uk/03-skills/refactor/templates/refactoring-plan.md
+2026-04-15 18:01:26 - INFO - Progress: 17/81 - ❌ uk/resources/README.md
+2026-04-15 18:01:26 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/CONTRIBUTING.md (attempt 1)
+2026-04-15 18:01:26 - INFO - Progress: 18/81 - ❌ uk/03-skills/refactor/templates/refactoring-plan.md
+2026-04-15 18:01:26 - ERROR - Translation failed: 
+2026-04-15 18:01:26 - ERROR - Attempt 3 failed for /Users/xd/Desktop/codes/claude-howto/CLAUDE.md: 
+2026-04-15 18:01:26 - ERROR - ❌ Failed after 3 attempts: /Users/xd/Desktop/codes/claude-howto/CLAUDE.md
+2026-04-15 18:01:26 - ERROR - Translation failed: 
+2026-04-15 18:01:26 - ERROR - Attempt 3 failed for /Users/xd/Desktop/codes/claude-howto/uk/04-subagents/README.md: 
+2026-04-15 18:01:26 - ERROR - ❌ Failed after 3 attempts: /Users/xd/Desktop/codes/claude-howto/uk/04-subagents/README.md
+2026-04-15 18:01:26 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/uk/05-mcp/README.md (attempt 1)
+2026-04-15 18:01:26 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/INDEX.md (attempt 1)
+2026-04-15 18:01:26 - INFO - Progress: 19/81 - ❌ CLAUDE.md
+2026-04-15 18:01:26 - INFO - Progress: 20/81 - ❌ uk/04-subagents/README.md
+2026-04-15 18:01:56 - ERROR - Translation failed: 
+2026-04-15 18:01:56 - ERROR - Attempt 1 failed for /Users/xd/Desktop/codes/claude-howto/INDEX.md: 
+2026-04-15 18:01:56 - INFO - Retrying in 2s...
+2026-04-15 18:01:56 - ERROR - Translation failed: 
+2026-04-15 18:01:56 - ERROR - Attempt 1 failed for /Users/xd/Desktop/codes/claude-howto/uk/04-subagents/performance-optimizer.md: 
+2026-04-15 18:01:56 - INFO - Retrying in 2s...
+2026-04-15 18:01:56 - ERROR - Translation failed: 
+2026-04-15 18:01:56 - ERROR - Attempt 1 failed for /Users/xd/Desktop/codes/claude-howto/CONTRIBUTING.md: 
+2026-04-15 18:01:56 - INFO - Retrying in 2s...
+2026-04-15 18:01:56 - ERROR - Translation failed: 
+2026-04-15 18:01:56 - ERROR - Attempt 1 failed for /Users/xd/Desktop/codes/claude-howto/uk/resources.md: 
+2026-04-15 18:01:56 - INFO - Retrying in 2s...
+2026-04-15 18:01:56 - ERROR - Translation failed: 
+2026-04-15 18:01:56 - ERROR - Attempt 1 failed for /Users/xd/Desktop/codes/claude-howto/uk/05-mcp/README.md: 
+2026-04-15 18:01:56 - INFO - Retrying in 2s...
+2026-04-15 18:01:58 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/INDEX.md (attempt 2)
+2026-04-15 18:01:58 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/uk/04-subagents/performance-optimizer.md (attempt 2)
+2026-04-15 18:01:58 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/CONTRIBUTING.md (attempt 2)
+2026-04-15 18:01:58 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/uk/resources.md (attempt 2)
+2026-04-15 18:01:58 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/uk/05-mcp/README.md (attempt 2)
+2026-04-15 18:02:28 - ERROR - Translation failed: 
+2026-04-15 18:02:28 - ERROR - Attempt 2 failed for /Users/xd/Desktop/codes/claude-howto/INDEX.md: 
+2026-04-15 18:02:28 - INFO - Retrying in 4s...
+2026-04-15 18:02:28 - ERROR - Translation failed: 
+2026-04-15 18:02:28 - ERROR - Attempt 2 failed for /Users/xd/Desktop/codes/claude-howto/uk/04-subagents/performance-optimizer.md: 
+2026-04-15 18:02:28 - INFO - Retrying in 4s...
+2026-04-15 18:02:28 - ERROR - Translation failed: 
+2026-04-15 18:02:28 - ERROR - Attempt 2 failed for /Users/xd/Desktop/codes/claude-howto/CONTRIBUTING.md: 
+2026-04-15 18:02:28 - INFO - Retrying in 4s...
+2026-04-15 18:02:28 - ERROR - Translation failed: 
+2026-04-15 18:02:28 - ERROR - Attempt 2 failed for /Users/xd/Desktop/codes/claude-howto/uk/resources.md: 
+2026-04-15 18:02:28 - INFO - Retrying in 4s...
+2026-04-15 18:02:28 - ERROR - Translation failed: 
+2026-04-15 18:02:28 - ERROR - Attempt 2 failed for /Users/xd/Desktop/codes/claude-howto/uk/05-mcp/README.md: 
+2026-04-15 18:02:28 - INFO - Retrying in 4s...
+2026-04-15 18:02:32 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/INDEX.md (attempt 3)
+2026-04-15 18:02:32 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/uk/04-subagents/performance-optimizer.md (attempt 3)
+2026-04-15 18:02:32 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/CONTRIBUTING.md (attempt 3)
+2026-04-15 18:02:32 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/uk/resources.md (attempt 3)
+2026-04-15 18:02:32 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/uk/05-mcp/README.md (attempt 3)
+2026-04-15 18:03:02 - ERROR - Translation failed: 
+2026-04-15 18:03:02 - ERROR - Attempt 3 failed for /Users/xd/Desktop/codes/claude-howto/uk/resources.md: 
+2026-04-15 18:03:02 - ERROR - ❌ Failed after 3 attempts: /Users/xd/Desktop/codes/claude-howto/uk/resources.md
+2026-04-15 18:03:02 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/uk/06-hooks/README.md (attempt 1)
+2026-04-15 18:03:02 - INFO - Progress: 21/81 - ❌ uk/resources.md
+2026-04-15 18:03:02 - ERROR - Translation failed: 
+2026-04-15 18:03:02 - ERROR - Attempt 3 failed for /Users/xd/Desktop/codes/claude-howto/uk/04-subagents/performance-optimizer.md: 
+2026-04-15 18:03:02 - ERROR - ❌ Failed after 3 attempts: /Users/xd/Desktop/codes/claude-howto/uk/04-subagents/performance-optimizer.md
+2026-04-15 18:03:02 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/LEARNING-ROADMAP.md (attempt 1)
+2026-04-15 18:03:02 - INFO - Progress: 22/81 - ❌ uk/04-subagents/performance-optimizer.md
+2026-04-15 18:03:02 - ERROR - Translation failed: 
+2026-04-15 18:03:02 - ERROR - Attempt 3 failed for /Users/xd/Desktop/codes/claude-howto/CONTRIBUTING.md: 
+2026-04-15 18:03:02 - ERROR - ❌ Failed after 3 attempts: /Users/xd/Desktop/codes/claude-howto/CONTRIBUTING.md
+2026-04-15 18:03:02 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/uk/07-plugins/README.md (attempt 1)
+2026-04-15 18:03:02 - ERROR - Translation failed: 
+2026-04-15 18:03:02 - ERROR - Attempt 3 failed for /Users/xd/Desktop/codes/claude-howto/uk/05-mcp/README.md: 
+2026-04-15 18:03:02 - ERROR - ❌ Failed after 3 attempts: /Users/xd/Desktop/codes/claude-howto/uk/05-mcp/README.md
+2026-04-15 18:03:02 - ERROR - Translation failed: 
+2026-04-15 18:03:02 - ERROR - Attempt 3 failed for /Users/xd/Desktop/codes/claude-howto/INDEX.md: 
+2026-04-15 18:03:02 - ERROR - ❌ Failed after 3 attempts: /Users/xd/Desktop/codes/claude-howto/INDEX.md
+2026-04-15 18:03:02 - INFO - Progress: 23/81 - ❌ CONTRIBUTING.md
+2026-04-15 18:03:02 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/QUICK_REFERENCE.md (attempt 1)
+2026-04-15 18:03:02 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/.github/SECURITY_REPORTING.md (attempt 1)
+2026-04-15 18:03:02 - INFO - Progress: 24/81 - ❌ uk/05-mcp/README.md
+2026-04-15 18:03:02 - INFO - Progress: 25/81 - ❌ INDEX.md
+2026-04-15 18:03:32 - ERROR - Translation failed: 
+2026-04-15 18:03:32 - ERROR - Attempt 1 failed for /Users/xd/Desktop/codes/claude-howto/uk/06-hooks/README.md: 
+2026-04-15 18:03:32 - INFO - Retrying in 2s...
+2026-04-15 18:03:32 - ERROR - Translation failed: 
+2026-04-15 18:03:32 - ERROR - Attempt 1 failed for /Users/xd/Desktop/codes/claude-howto/QUICK_REFERENCE.md: 
+2026-04-15 18:03:32 - INFO - Retrying in 2s...
+2026-04-15 18:03:32 - ERROR - Translation failed: 
+2026-04-15 18:03:32 - ERROR - Attempt 1 failed for /Users/xd/Desktop/codes/claude-howto/LEARNING-ROADMAP.md: 
+2026-04-15 18:03:32 - INFO - Retrying in 2s...
+2026-04-15 18:03:32 - ERROR - Translation failed: 
+2026-04-15 18:03:32 - ERROR - Attempt 1 failed for /Users/xd/Desktop/codes/claude-howto/.github/SECURITY_REPORTING.md: 
+2026-04-15 18:03:32 - INFO - Retrying in 2s...
+2026-04-15 18:03:32 - ERROR - Translation failed: 
+2026-04-15 18:03:32 - ERROR - Attempt 1 failed for /Users/xd/Desktop/codes/claude-howto/uk/07-plugins/README.md: 
+2026-04-15 18:03:32 - INFO - Retrying in 2s...
+2026-04-15 18:03:34 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/uk/06-hooks/README.md (attempt 2)
+2026-04-15 18:03:34 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/QUICK_REFERENCE.md (attempt 2)
+2026-04-15 18:03:34 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/LEARNING-ROADMAP.md (attempt 2)
+2026-04-15 18:03:34 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/.github/SECURITY_REPORTING.md (attempt 2)
+2026-04-15 18:03:34 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/uk/07-plugins/README.md (attempt 2)
+2026-04-15 18:04:04 - ERROR - Translation failed: 
+2026-04-15 18:04:04 - ERROR - Attempt 2 failed for /Users/xd/Desktop/codes/claude-howto/uk/06-hooks/README.md: 
+2026-04-15 18:04:04 - INFO - Retrying in 4s...
+2026-04-15 18:04:04 - ERROR - Translation failed: 
+2026-04-15 18:04:04 - ERROR - Attempt 2 failed for /Users/xd/Desktop/codes/claude-howto/LEARNING-ROADMAP.md: 
+2026-04-15 18:04:04 - INFO - Retrying in 4s...
+2026-04-15 18:04:04 - ERROR - Translation failed: 
+2026-04-15 18:04:04 - ERROR - Attempt 2 failed for /Users/xd/Desktop/codes/claude-howto/QUICK_REFERENCE.md: 
+2026-04-15 18:04:04 - INFO - Retrying in 4s...
+2026-04-15 18:04:05 - ERROR - Translation failed: 
+2026-04-15 18:04:05 - ERROR - Attempt 2 failed for /Users/xd/Desktop/codes/claude-howto/.github/SECURITY_REPORTING.md: 
+2026-04-15 18:04:05 - INFO - Retrying in 4s...
+2026-04-15 18:04:05 - ERROR - Translation failed: 
+2026-04-15 18:04:05 - ERROR - Attempt 2 failed for /Users/xd/Desktop/codes/claude-howto/uk/07-plugins/README.md: 
+2026-04-15 18:04:05 - INFO - Retrying in 4s...
+2026-04-15 18:04:08 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/uk/06-hooks/README.md (attempt 3)
+2026-04-15 18:04:08 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/LEARNING-ROADMAP.md (attempt 3)
+2026-04-15 18:04:08 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/QUICK_REFERENCE.md (attempt 3)
+2026-04-15 18:04:09 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/.github/SECURITY_REPORTING.md (attempt 3)
+2026-04-15 18:04:09 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/uk/07-plugins/README.md (attempt 3)
+2026-04-15 18:04:39 - ERROR - Translation failed: 
+2026-04-15 18:04:39 - ERROR - Attempt 3 failed for /Users/xd/Desktop/codes/claude-howto/LEARNING-ROADMAP.md: 
+2026-04-15 18:04:39 - ERROR - ❌ Failed after 3 attempts: /Users/xd/Desktop/codes/claude-howto/LEARNING-ROADMAP.md
+2026-04-15 18:04:39 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/uk/08-checkpoints/README.md (attempt 1)
+2026-04-15 18:04:39 - INFO - Progress: 26/81 - ❌ LEARNING-ROADMAP.md
+2026-04-15 18:04:39 - ERROR - Translation failed: 
+2026-04-15 18:04:39 - ERROR - Attempt 3 failed for /Users/xd/Desktop/codes/claude-howto/QUICK_REFERENCE.md: 
+2026-04-15 18:04:39 - ERROR - ❌ Failed after 3 attempts: /Users/xd/Desktop/codes/claude-howto/QUICK_REFERENCE.md
+2026-04-15 18:04:39 - ERROR - Translation failed: 
+2026-04-15 18:04:39 - ERROR - Attempt 3 failed for /Users/xd/Desktop/codes/claude-howto/uk/06-hooks/README.md: 
+2026-04-15 18:04:39 - ERROR - ❌ Failed after 3 attempts: /Users/xd/Desktop/codes/claude-howto/uk/06-hooks/README.md
+2026-04-15 18:04:39 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/README.md (attempt 1)
+2026-04-15 18:04:39 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/.github/TESTING.md (attempt 1)
+2026-04-15 18:04:39 - INFO - Progress: 27/81 - ❌ QUICK_REFERENCE.md
+2026-04-15 18:04:39 - INFO - Progress: 28/81 - ❌ uk/06-hooks/README.md
+2026-04-15 18:04:39 - ERROR - Translation failed: 
+2026-04-15 18:04:39 - ERROR - Attempt 3 failed for /Users/xd/Desktop/codes/claude-howto/.github/SECURITY_REPORTING.md: 
+2026-04-15 18:04:39 - ERROR - ❌ Failed after 3 attempts: /Users/xd/Desktop/codes/claude-howto/.github/SECURITY_REPORTING.md
+2026-04-15 18:04:39 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/uk/08-checkpoints/checkpoint-examples.md (attempt 1)
+2026-04-15 18:04:39 - ERROR - Translation failed: 
+2026-04-15 18:04:39 - ERROR - Attempt 3 failed for /Users/xd/Desktop/codes/claude-howto/uk/07-plugins/README.md: 
+2026-04-15 18:04:39 - ERROR - ❌ Failed after 3 attempts: /Users/xd/Desktop/codes/claude-howto/uk/07-plugins/README.md
+2026-04-15 18:04:39 - INFO - Progress: 29/81 - ❌ .github/SECURITY_REPORTING.md
+2026-04-15 18:04:39 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/SECURITY.md (attempt 1)
+2026-04-15 18:04:39 - INFO - Progress: 30/81 - ❌ uk/07-plugins/README.md
+2026-04-15 18:05:09 - ERROR - Translation failed: 
+2026-04-15 18:05:09 - ERROR - Attempt 1 failed for /Users/xd/Desktop/codes/claude-howto/.github/TESTING.md: 
+2026-04-15 18:05:09 - INFO - Retrying in 2s...
+2026-04-15 18:05:09 - ERROR - Translation failed: 
+2026-04-15 18:05:09 - ERROR - Attempt 1 failed for /Users/xd/Desktop/codes/claude-howto/uk/08-checkpoints/README.md: 
+2026-04-15 18:05:09 - INFO - Retrying in 2s...
+2026-04-15 18:05:09 - ERROR - Translation failed: 
+2026-04-15 18:05:09 - ERROR - Attempt 1 failed for /Users/xd/Desktop/codes/claude-howto/SECURITY.md: 
+2026-04-15 18:05:09 - INFO - Retrying in 2s...
+2026-04-15 18:05:09 - ERROR - Translation failed: 
+2026-04-15 18:05:09 - ERROR - Attempt 1 failed for /Users/xd/Desktop/codes/claude-howto/README.md: 
+2026-04-15 18:05:09 - INFO - Retrying in 2s...
+2026-04-15 18:05:09 - ERROR - Translation failed: 
+2026-04-15 18:05:09 - ERROR - Attempt 1 failed for /Users/xd/Desktop/codes/claude-howto/uk/08-checkpoints/checkpoint-examples.md: 
+2026-04-15 18:05:09 - INFO - Retrying in 2s...
+2026-04-15 18:05:11 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/.github/TESTING.md (attempt 2)
+2026-04-15 18:05:11 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/uk/08-checkpoints/README.md (attempt 2)
+2026-04-15 18:05:11 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/SECURITY.md (attempt 2)
+2026-04-15 18:05:11 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/README.md (attempt 2)
+2026-04-15 18:05:11 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/uk/08-checkpoints/checkpoint-examples.md (attempt 2)
+2026-04-15 18:05:41 - ERROR - Translation failed: 
+2026-04-15 18:05:41 - ERROR - Attempt 2 failed for /Users/xd/Desktop/codes/claude-howto/uk/08-checkpoints/README.md: 
+2026-04-15 18:05:41 - INFO - Retrying in 4s...
+2026-04-15 18:05:41 - ERROR - Translation failed: 
+2026-04-15 18:05:41 - ERROR - Attempt 2 failed for /Users/xd/Desktop/codes/claude-howto/.github/TESTING.md: 
+2026-04-15 18:05:41 - INFO - Retrying in 4s...
+2026-04-15 18:05:41 - ERROR - Translation failed: 
+2026-04-15 18:05:41 - ERROR - Attempt 2 failed for /Users/xd/Desktop/codes/claude-howto/uk/08-checkpoints/checkpoint-examples.md: 
+2026-04-15 18:05:41 - INFO - Retrying in 4s...
+2026-04-15 18:05:41 - ERROR - Translation failed: 
+2026-04-15 18:05:41 - ERROR - Attempt 2 failed for /Users/xd/Desktop/codes/claude-howto/README.md: 
+2026-04-15 18:05:41 - INFO - Retrying in 4s...
+2026-04-15 18:05:41 - ERROR - Translation failed: 
+2026-04-15 18:05:41 - ERROR - Attempt 2 failed for /Users/xd/Desktop/codes/claude-howto/SECURITY.md: 
+2026-04-15 18:05:41 - INFO - Retrying in 4s...
+2026-04-15 18:05:45 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/uk/08-checkpoints/README.md (attempt 3)
+2026-04-15 18:05:45 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/.github/TESTING.md (attempt 3)
+2026-04-15 18:05:45 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/uk/08-checkpoints/checkpoint-examples.md (attempt 3)
+2026-04-15 18:05:45 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/README.md (attempt 3)
+2026-04-15 18:05:45 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/SECURITY.md (attempt 3)
+2026-04-15 18:06:15 - ERROR - Translation failed: 
+2026-04-15 18:06:15 - ERROR - Attempt 3 failed for /Users/xd/Desktop/codes/claude-howto/README.md: 
+2026-04-15 18:06:15 - ERROR - ❌ Failed after 3 attempts: /Users/xd/Desktop/codes/claude-howto/README.md
+2026-04-15 18:06:15 - ERROR - Translation failed: 
+2026-04-15 18:06:15 - ERROR - Attempt 3 failed for /Users/xd/Desktop/codes/claude-howto/SECURITY.md: 
+2026-04-15 18:06:15 - ERROR - ❌ Failed after 3 attempts: /Users/xd/Desktop/codes/claude-howto/SECURITY.md
+2026-04-15 18:06:15 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/01-slash-commands/README.md (attempt 1)
+2026-04-15 18:06:15 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/uk/09-advanced-features/README.md (attempt 1)
+2026-04-15 18:06:15 - INFO - Progress: 31/81 - ❌ README.md
+2026-04-15 18:06:15 - INFO - Progress: 32/81 - ❌ SECURITY.md
+2026-04-15 18:06:15 - ERROR - Translation failed: 
+2026-04-15 18:06:15 - ERROR - Attempt 3 failed for /Users/xd/Desktop/codes/claude-howto/uk/08-checkpoints/README.md: 
+2026-04-15 18:06:15 - ERROR - ❌ Failed after 3 attempts: /Users/xd/Desktop/codes/claude-howto/uk/08-checkpoints/README.md
+2026-04-15 18:06:15 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/STYLE_GUIDE.md (attempt 1)
+2026-04-15 18:06:15 - INFO - Progress: 33/81 - ❌ uk/08-checkpoints/README.md
+2026-04-15 18:06:15 - ERROR - Translation failed: 
+2026-04-15 18:06:15 - ERROR - Attempt 3 failed for /Users/xd/Desktop/codes/claude-howto/uk/08-checkpoints/checkpoint-examples.md: 
+2026-04-15 18:06:15 - ERROR - ❌ Failed after 3 attempts: /Users/xd/Desktop/codes/claude-howto/uk/08-checkpoints/checkpoint-examples.md
+2026-04-15 18:06:15 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/01-slash-commands/push-all.md (attempt 1)
+2026-04-15 18:06:15 - INFO - Progress: 34/81 - ❌ uk/08-checkpoints/checkpoint-examples.md
+2026-04-15 18:06:15 - ERROR - Translation failed: 
+2026-04-15 18:06:15 - ERROR - Attempt 3 failed for /Users/xd/Desktop/codes/claude-howto/.github/TESTING.md: 
+2026-04-15 18:06:15 - ERROR - ❌ Failed after 3 attempts: /Users/xd/Desktop/codes/claude-howto/.github/TESTING.md
+2026-04-15 18:06:15 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/uk/09-advanced-features/planning-mode-examples.md (attempt 1)
+2026-04-15 18:06:15 - INFO - Progress: 35/81 - ❌ .github/TESTING.md
+2026-04-15 18:06:45 - ERROR - Translation failed: 
+2026-04-15 18:06:45 - ERROR - Attempt 1 failed for /Users/xd/Desktop/codes/claude-howto/01-slash-commands/README.md: 
+2026-04-15 18:06:45 - INFO - Retrying in 2s...
+2026-04-15 18:06:45 - ERROR - Translation failed: 
+2026-04-15 18:06:45 - ERROR - Attempt 1 failed for /Users/xd/Desktop/codes/claude-howto/STYLE_GUIDE.md: 
+2026-04-15 18:06:45 - INFO - Retrying in 2s...
+2026-04-15 18:06:45 - ERROR - Translation failed: 
+2026-04-15 18:06:45 - ERROR - Attempt 1 failed for /Users/xd/Desktop/codes/claude-howto/uk/09-advanced-features/README.md: 
+2026-04-15 18:06:45 - INFO - Retrying in 2s...
+2026-04-15 18:06:45 - ERROR - Translation failed: 
+2026-04-15 18:06:45 - ERROR - Attempt 1 failed for /Users/xd/Desktop/codes/claude-howto/01-slash-commands/push-all.md: 
+2026-04-15 18:06:45 - INFO - Retrying in 2s...
+2026-04-15 18:06:45 - ERROR - Translation failed: 
+2026-04-15 18:06:45 - ERROR - Attempt 1 failed for /Users/xd/Desktop/codes/claude-howto/uk/09-advanced-features/planning-mode-examples.md: 
+2026-04-15 18:06:45 - INFO - Retrying in 2s...
+2026-04-15 18:06:47 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/01-slash-commands/README.md (attempt 2)
+2026-04-15 18:06:47 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/STYLE_GUIDE.md (attempt 2)
+2026-04-15 18:06:47 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/uk/09-advanced-features/README.md (attempt 2)
+2026-04-15 18:06:47 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/01-slash-commands/push-all.md (attempt 2)
+2026-04-15 18:06:47 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/uk/09-advanced-features/planning-mode-examples.md (attempt 2)
+2026-04-15 18:07:17 - ERROR - Translation failed: 
+2026-04-15 18:07:17 - ERROR - Attempt 2 failed for /Users/xd/Desktop/codes/claude-howto/uk/09-advanced-features/README.md: 
+2026-04-15 18:07:17 - INFO - Retrying in 4s...
+2026-04-15 18:07:17 - ERROR - Translation failed: 
+2026-04-15 18:07:17 - ERROR - Attempt 2 failed for /Users/xd/Desktop/codes/claude-howto/STYLE_GUIDE.md: 
+2026-04-15 18:07:17 - INFO - Retrying in 4s...
+2026-04-15 18:07:17 - ERROR - Translation failed: 
+2026-04-15 18:07:17 - ERROR - Attempt 2 failed for /Users/xd/Desktop/codes/claude-howto/01-slash-commands/push-all.md: 
+2026-04-15 18:07:17 - INFO - Retrying in 4s...
+2026-04-15 18:07:17 - ERROR - Translation failed: 
+2026-04-15 18:07:17 - ERROR - Attempt 2 failed for /Users/xd/Desktop/codes/claude-howto/01-slash-commands/README.md: 
+2026-04-15 18:07:17 - INFO - Retrying in 4s...
+2026-04-15 18:07:17 - ERROR - Translation failed: 
+2026-04-15 18:07:17 - ERROR - Attempt 2 failed for /Users/xd/Desktop/codes/claude-howto/uk/09-advanced-features/planning-mode-examples.md: 
+2026-04-15 18:07:17 - INFO - Retrying in 4s...
+2026-04-15 18:07:21 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/uk/09-advanced-features/README.md (attempt 3)
+2026-04-15 18:07:21 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/STYLE_GUIDE.md (attempt 3)
+2026-04-15 18:07:21 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/01-slash-commands/push-all.md (attempt 3)
+2026-04-15 18:07:21 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/01-slash-commands/README.md (attempt 3)
+2026-04-15 18:07:21 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/uk/09-advanced-features/planning-mode-examples.md (attempt 3)
+2026-04-15 18:07:52 - ERROR - Translation failed: 
+2026-04-15 18:07:52 - ERROR - Attempt 3 failed for /Users/xd/Desktop/codes/claude-howto/uk/09-advanced-features/planning-mode-examples.md: 
+2026-04-15 18:07:52 - ERROR - ❌ Failed after 3 attempts: /Users/xd/Desktop/codes/claude-howto/uk/09-advanced-features/planning-mode-examples.md
+2026-04-15 18:07:52 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/claude_concepts_guide.md (attempt 1)
+2026-04-15 18:07:52 - INFO - Progress: 36/81 - ❌ uk/09-advanced-features/planning-mode-examples.md
+2026-04-15 18:07:52 - ERROR - Translation failed: 
+2026-04-15 18:07:52 - ERROR - Attempt 3 failed for /Users/xd/Desktop/codes/claude-howto/01-slash-commands/README.md: 
+2026-04-15 18:07:52 - ERROR - ❌ Failed after 3 attempts: /Users/xd/Desktop/codes/claude-howto/01-slash-commands/README.md
+2026-04-15 18:07:52 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/02-memory/README.md (attempt 1)
+2026-04-15 18:07:52 - ERROR - Translation failed: 
+2026-04-15 18:07:52 - ERROR - Attempt 3 failed for /Users/xd/Desktop/codes/claude-howto/uk/09-advanced-features/README.md: 
+2026-04-15 18:07:52 - ERROR - ❌ Failed after 3 attempts: /Users/xd/Desktop/codes/claude-howto/uk/09-advanced-features/README.md
+2026-04-15 18:07:52 - ERROR - Translation failed: 
+2026-04-15 18:07:52 - ERROR - Attempt 3 failed for /Users/xd/Desktop/codes/claude-howto/STYLE_GUIDE.md: 
+2026-04-15 18:07:52 - ERROR - ❌ Failed after 3 attempts: /Users/xd/Desktop/codes/claude-howto/STYLE_GUIDE.md
+2026-04-15 18:07:52 - ERROR - Translation failed: 
+2026-04-15 18:07:52 - ERROR - Attempt 3 failed for /Users/xd/Desktop/codes/claude-howto/01-slash-commands/push-all.md: 
+2026-04-15 18:07:52 - ERROR - ❌ Failed after 3 attempts: /Users/xd/Desktop/codes/claude-howto/01-slash-commands/push-all.md
+2026-04-15 18:07:52 - INFO - Progress: 37/81 - ❌ 01-slash-commands/README.md
+2026-04-15 18:07:52 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/uk/10-cli/README.md (attempt 1)
+2026-04-15 18:07:52 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/clean-code-rules.md (attempt 1)
+2026-04-15 18:07:52 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/08-checkpoints/checkpoint-examples.md (attempt 1)
+2026-04-15 18:07:52 - INFO - Progress: 38/81 - ❌ uk/09-advanced-features/README.md
+2026-04-15 18:07:52 - INFO - Progress: 39/81 - ❌ STYLE_GUIDE.md
+2026-04-15 18:07:52 - INFO - Progress: 40/81 - ❌ 01-slash-commands/push-all.md
+2026-04-15 18:08:22 - ERROR - Translation failed: 
+2026-04-15 18:08:22 - ERROR - Attempt 1 failed for /Users/xd/Desktop/codes/claude-howto/08-checkpoints/checkpoint-examples.md: 
+2026-04-15 18:08:22 - INFO - Retrying in 2s...
+2026-04-15 18:08:22 - ERROR - Translation failed: 
+2026-04-15 18:08:22 - ERROR - Attempt 1 failed for /Users/xd/Desktop/codes/claude-howto/clean-code-rules.md: 
+2026-04-15 18:08:22 - INFO - Retrying in 2s...
+2026-04-15 18:08:22 - ERROR - Translation failed: 
+2026-04-15 18:08:22 - ERROR - Attempt 1 failed for /Users/xd/Desktop/codes/claude-howto/claude_concepts_guide.md: 
+2026-04-15 18:08:22 - INFO - Retrying in 2s...
+2026-04-15 18:08:22 - ERROR - Translation failed: 
+2026-04-15 18:08:22 - ERROR - Attempt 1 failed for /Users/xd/Desktop/codes/claude-howto/02-memory/README.md: 
+2026-04-15 18:08:22 - INFO - Retrying in 2s...
+2026-04-15 18:08:22 - ERROR - Translation failed: 
+2026-04-15 18:08:22 - ERROR - Attempt 1 failed for /Users/xd/Desktop/codes/claude-howto/uk/10-cli/README.md: 
+2026-04-15 18:08:22 - INFO - Retrying in 2s...
+2026-04-15 18:08:24 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/08-checkpoints/checkpoint-examples.md (attempt 2)
+2026-04-15 18:08:24 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/clean-code-rules.md (attempt 2)
+2026-04-15 18:08:24 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/claude_concepts_guide.md (attempt 2)
+2026-04-15 18:08:24 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/02-memory/README.md (attempt 2)
+2026-04-15 18:08:24 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/uk/10-cli/README.md (attempt 2)
+2026-04-15 18:08:54 - ERROR - Translation failed: 
+2026-04-15 18:08:54 - ERROR - Attempt 2 failed for /Users/xd/Desktop/codes/claude-howto/claude_concepts_guide.md: 
+2026-04-15 18:08:54 - INFO - Retrying in 4s...
+2026-04-15 18:08:54 - ERROR - Translation failed: 
+2026-04-15 18:08:54 - ERROR - Attempt 2 failed for /Users/xd/Desktop/codes/claude-howto/clean-code-rules.md: 
+2026-04-15 18:08:54 - INFO - Retrying in 4s...
+2026-04-15 18:08:54 - ERROR - Translation failed: 
+2026-04-15 18:08:54 - ERROR - Attempt 2 failed for /Users/xd/Desktop/codes/claude-howto/uk/10-cli/README.md: 
+2026-04-15 18:08:54 - INFO - Retrying in 4s...
+2026-04-15 18:08:54 - ERROR - Translation failed: 
+2026-04-15 18:08:54 - ERROR - Attempt 2 failed for /Users/xd/Desktop/codes/claude-howto/08-checkpoints/checkpoint-examples.md: 
+2026-04-15 18:08:54 - INFO - Retrying in 4s...
+2026-04-15 18:08:54 - ERROR - Translation failed: 
+2026-04-15 18:08:54 - ERROR - Attempt 2 failed for /Users/xd/Desktop/codes/claude-howto/02-memory/README.md: 
+2026-04-15 18:08:54 - INFO - Retrying in 4s...
+2026-04-15 18:08:58 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/claude_concepts_guide.md (attempt 3)
+2026-04-15 18:08:58 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/clean-code-rules.md (attempt 3)
+2026-04-15 18:08:58 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/uk/10-cli/README.md (attempt 3)
+2026-04-15 18:08:58 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/08-checkpoints/checkpoint-examples.md (attempt 3)
+2026-04-15 18:08:58 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/02-memory/README.md (attempt 3)
+2026-04-15 18:09:28 - ERROR - Translation failed: 
+2026-04-15 18:09:28 - ERROR - Attempt 3 failed for /Users/xd/Desktop/codes/claude-howto/claude_concepts_guide.md: 
+2026-04-15 18:09:28 - ERROR - ❌ Failed after 3 attempts: /Users/xd/Desktop/codes/claude-howto/claude_concepts_guide.md
+2026-04-15 18:09:28 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/03-skills/README.md (attempt 1)
+2026-04-15 18:09:28 - INFO - Progress: 41/81 - ❌ claude_concepts_guide.md
+2026-04-15 18:09:28 - ERROR - Translation failed: 
+2026-04-15 18:09:28 - ERROR - Attempt 3 failed for /Users/xd/Desktop/codes/claude-howto/clean-code-rules.md: 
+2026-04-15 18:09:28 - ERROR - ❌ Failed after 3 attempts: /Users/xd/Desktop/codes/claude-howto/clean-code-rules.md
+2026-04-15 18:09:28 - ERROR - Translation failed: 
+2026-04-15 18:09:28 - ERROR - Attempt 3 failed for /Users/xd/Desktop/codes/claude-howto/uk/10-cli/README.md: 
+2026-04-15 18:09:28 - ERROR - ❌ Failed after 3 attempts: /Users/xd/Desktop/codes/claude-howto/uk/10-cli/README.md
+2026-04-15 18:09:28 - ERROR - Translation failed: 
+2026-04-15 18:09:28 - ERROR - Attempt 3 failed for /Users/xd/Desktop/codes/claude-howto/02-memory/README.md: 
+2026-04-15 18:09:28 - ERROR - ❌ Failed after 3 attempts: /Users/xd/Desktop/codes/claude-howto/02-memory/README.md
+2026-04-15 18:09:28 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/uk/CATALOG.md (attempt 1)
+2026-04-15 18:09:28 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/docs/ROADMAP-20260401.md (attempt 1)
+2026-04-15 18:09:28 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/03-skills/blog-draft/SKILL.md (attempt 1)
+2026-04-15 18:09:28 - INFO - Progress: 42/81 - ❌ clean-code-rules.md
+2026-04-15 18:09:28 - INFO - Progress: 43/81 - ❌ uk/10-cli/README.md
+2026-04-15 18:09:28 - INFO - Progress: 44/81 - ❌ 02-memory/README.md
+2026-04-15 18:09:28 - ERROR - Translation failed: 
+2026-04-15 18:09:28 - ERROR - Attempt 3 failed for /Users/xd/Desktop/codes/claude-howto/08-checkpoints/checkpoint-examples.md: 
+2026-04-15 18:09:28 - ERROR - ❌ Failed after 3 attempts: /Users/xd/Desktop/codes/claude-howto/08-checkpoints/checkpoint-examples.md
+2026-04-15 18:09:28 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/uk/CHANGELOG.md (attempt 1)
+2026-04-15 18:09:28 - INFO - Progress: 45/81 - ❌ 08-checkpoints/checkpoint-examples.md
+2026-04-15 18:09:58 - ERROR - Translation failed: 
+2026-04-15 18:09:58 - ERROR - Attempt 1 failed for /Users/xd/Desktop/codes/claude-howto/03-skills/README.md: 
+2026-04-15 18:09:58 - INFO - Retrying in 2s...
+2026-04-15 18:09:58 - ERROR - Translation failed: 
+2026-04-15 18:09:58 - ERROR - Attempt 1 failed for /Users/xd/Desktop/codes/claude-howto/03-skills/blog-draft/SKILL.md: 
+2026-04-15 18:09:58 - INFO - Retrying in 2s...
+2026-04-15 18:09:58 - ERROR - Translation failed: 
+2026-04-15 18:09:58 - ERROR - Attempt 1 failed for /Users/xd/Desktop/codes/claude-howto/uk/CATALOG.md: 
+2026-04-15 18:09:58 - INFO - Retrying in 2s...
+2026-04-15 18:09:58 - ERROR - Translation failed: 
+2026-04-15 18:09:58 - ERROR - Attempt 1 failed for /Users/xd/Desktop/codes/claude-howto/docs/ROADMAP-20260401.md: 
+2026-04-15 18:09:58 - INFO - Retrying in 2s...
+2026-04-15 18:09:58 - ERROR - Translation failed: 
+2026-04-15 18:09:58 - ERROR - Attempt 1 failed for /Users/xd/Desktop/codes/claude-howto/uk/CHANGELOG.md: 
+2026-04-15 18:09:58 - INFO - Retrying in 2s...
+2026-04-15 18:10:00 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/03-skills/README.md (attempt 2)
+2026-04-15 18:10:00 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/03-skills/blog-draft/SKILL.md (attempt 2)
+2026-04-15 18:10:00 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/uk/CATALOG.md (attempt 2)
+2026-04-15 18:10:00 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/docs/ROADMAP-20260401.md (attempt 2)
+2026-04-15 18:10:00 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/uk/CHANGELOG.md (attempt 2)
+2026-04-15 18:10:30 - ERROR - Translation failed: 
+2026-04-15 18:10:30 - ERROR - Attempt 2 failed for /Users/xd/Desktop/codes/claude-howto/uk/CHANGELOG.md: 
+2026-04-15 18:10:30 - INFO - Retrying in 4s...
+2026-04-15 18:10:30 - ERROR - Translation failed: 
+2026-04-15 18:10:30 - ERROR - Attempt 2 failed for /Users/xd/Desktop/codes/claude-howto/docs/ROADMAP-20260401.md: 
+2026-04-15 18:10:30 - INFO - Retrying in 4s...
+2026-04-15 18:10:30 - ERROR - Translation failed: 
+2026-04-15 18:10:30 - ERROR - Attempt 2 failed for /Users/xd/Desktop/codes/claude-howto/uk/CATALOG.md: 
+2026-04-15 18:10:30 - INFO - Retrying in 4s...
+2026-04-15 18:10:30 - ERROR - Translation failed: 
+2026-04-15 18:10:30 - ERROR - Attempt 2 failed for /Users/xd/Desktop/codes/claude-howto/03-skills/blog-draft/SKILL.md: 
+2026-04-15 18:10:30 - INFO - Retrying in 4s...
+2026-04-15 18:10:30 - ERROR - Translation failed: 
+2026-04-15 18:10:30 - ERROR - Attempt 2 failed for /Users/xd/Desktop/codes/claude-howto/03-skills/README.md: 
+2026-04-15 18:10:30 - INFO - Retrying in 4s...
+2026-04-15 18:10:34 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/uk/CHANGELOG.md (attempt 3)
+2026-04-15 18:10:34 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/docs/ROADMAP-20260401.md (attempt 3)
+2026-04-15 18:10:34 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/uk/CATALOG.md (attempt 3)
+2026-04-15 18:10:34 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/03-skills/blog-draft/SKILL.md (attempt 3)
+2026-04-15 18:10:34 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/03-skills/README.md (attempt 3)
+2026-04-15 18:11:04 - ERROR - Translation failed: 
+2026-04-15 18:11:04 - ERROR - Attempt 3 failed for /Users/xd/Desktop/codes/claude-howto/docs/ROADMAP-20260401.md: 
+2026-04-15 18:11:04 - ERROR - ❌ Failed after 3 attempts: /Users/xd/Desktop/codes/claude-howto/docs/ROADMAP-20260401.md
+2026-04-15 18:11:04 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/docs/TASKS-20260401.md (attempt 1)
+2026-04-15 18:11:04 - INFO - Progress: 46/81 - ❌ docs/ROADMAP-20260401.md
+2026-04-15 18:11:04 - ERROR - Translation failed: 
+2026-04-15 18:11:04 - ERROR - Attempt 3 failed for /Users/xd/Desktop/codes/claude-howto/03-skills/README.md: 
+2026-04-15 18:11:04 - ERROR - ❌ Failed after 3 attempts: /Users/xd/Desktop/codes/claude-howto/03-skills/README.md
+2026-04-15 18:11:04 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/03-skills/claude-md/SKILL.md (attempt 1)
+2026-04-15 18:11:04 - INFO - Progress: 47/81 - ❌ 03-skills/README.md
+2026-04-15 18:11:04 - ERROR - Translation failed: 
+2026-04-15 18:11:04 - ERROR - Attempt 3 failed for /Users/xd/Desktop/codes/claude-howto/uk/CATALOG.md: 
+2026-04-15 18:11:04 - ERROR - ❌ Failed after 3 attempts: /Users/xd/Desktop/codes/claude-howto/uk/CATALOG.md
+2026-04-15 18:11:04 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/uk/CLAUDE.md (attempt 1)
+2026-04-15 18:11:04 - ERROR - Translation failed: 
+2026-04-15 18:11:04 - ERROR - Attempt 3 failed for /Users/xd/Desktop/codes/claude-howto/uk/CHANGELOG.md: 
+2026-04-15 18:11:04 - ERROR - ❌ Failed after 3 attempts: /Users/xd/Desktop/codes/claude-howto/uk/CHANGELOG.md
+2026-04-15 18:11:04 - ERROR - Translation failed: 
+2026-04-15 18:11:04 - ERROR - Attempt 3 failed for /Users/xd/Desktop/codes/claude-howto/03-skills/blog-draft/SKILL.md: 
+2026-04-15 18:11:04 - ERROR - ❌ Failed after 3 attempts: /Users/xd/Desktop/codes/claude-howto/03-skills/blog-draft/SKILL.md
+2026-04-15 18:11:04 - INFO - Progress: 48/81 - ❌ uk/CATALOG.md
+2026-04-15 18:11:04 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/prompts/remotion-video.md (attempt 1)
+2026-04-15 18:11:04 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/03-skills/refactor/SKILL.md (attempt 1)
+2026-04-15 18:11:04 - INFO - Progress: 49/81 - ❌ uk/CHANGELOG.md
+2026-04-15 18:11:04 - INFO - Progress: 50/81 - ❌ 03-skills/blog-draft/SKILL.md
+2026-04-15 18:11:35 - ERROR - Translation failed: 
+2026-04-15 18:11:35 - ERROR - Attempt 1 failed for /Users/xd/Desktop/codes/claude-howto/docs/TASKS-20260401.md: 
+2026-04-15 18:11:35 - INFO - Retrying in 2s...
+2026-04-15 18:11:35 - ERROR - Translation failed: 
+2026-04-15 18:11:35 - ERROR - Attempt 1 failed for /Users/xd/Desktop/codes/claude-howto/03-skills/claude-md/SKILL.md: 
+2026-04-15 18:11:35 - INFO - Retrying in 2s...
+2026-04-15 18:11:35 - ERROR - Translation failed: 
+2026-04-15 18:11:35 - ERROR - Attempt 1 failed for /Users/xd/Desktop/codes/claude-howto/prompts/remotion-video.md: 
+2026-04-15 18:11:35 - INFO - Retrying in 2s...
+2026-04-15 18:11:35 - ERROR - Translation failed: 
+2026-04-15 18:11:35 - ERROR - Attempt 1 failed for /Users/xd/Desktop/codes/claude-howto/03-skills/refactor/SKILL.md: 
+2026-04-15 18:11:35 - INFO - Retrying in 2s...
+2026-04-15 18:11:35 - ERROR - Translation failed: 
+2026-04-15 18:11:35 - ERROR - Attempt 1 failed for /Users/xd/Desktop/codes/claude-howto/uk/CLAUDE.md: 
+2026-04-15 18:11:35 - INFO - Retrying in 2s...
+2026-04-15 18:11:37 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/docs/TASKS-20260401.md (attempt 2)
+2026-04-15 18:11:37 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/03-skills/claude-md/SKILL.md (attempt 2)
+2026-04-15 18:11:37 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/prompts/remotion-video.md (attempt 2)
+2026-04-15 18:11:37 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/03-skills/refactor/SKILL.md (attempt 2)
+2026-04-15 18:11:37 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/uk/CLAUDE.md (attempt 2)
+2026-04-15 18:12:07 - ERROR - Translation failed: 
+2026-04-15 18:12:07 - ERROR - Attempt 2 failed for /Users/xd/Desktop/codes/claude-howto/docs/TASKS-20260401.md: 
+2026-04-15 18:12:07 - INFO - Retrying in 4s...
+2026-04-15 18:12:07 - ERROR - Translation failed: 
+2026-04-15 18:12:07 - ERROR - Attempt 2 failed for /Users/xd/Desktop/codes/claude-howto/prompts/remotion-video.md: 
+2026-04-15 18:12:07 - INFO - Retrying in 4s...
+2026-04-15 18:12:07 - ERROR - Translation failed: 
+2026-04-15 18:12:07 - ERROR - Attempt 2 failed for /Users/xd/Desktop/codes/claude-howto/03-skills/claude-md/SKILL.md: 
+2026-04-15 18:12:07 - INFO - Retrying in 4s...
+2026-04-15 18:12:07 - ERROR - Translation failed: 
+2026-04-15 18:12:07 - ERROR - Attempt 2 failed for /Users/xd/Desktop/codes/claude-howto/uk/CLAUDE.md: 
+2026-04-15 18:12:07 - INFO - Retrying in 4s...
+2026-04-15 18:12:07 - ERROR - Translation failed: 
+2026-04-15 18:12:07 - ERROR - Attempt 2 failed for /Users/xd/Desktop/codes/claude-howto/03-skills/refactor/SKILL.md: 
+2026-04-15 18:12:07 - INFO - Retrying in 4s...
+2026-04-15 18:12:11 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/docs/TASKS-20260401.md (attempt 3)
+2026-04-15 18:12:11 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/prompts/remotion-video.md (attempt 3)
+2026-04-15 18:12:11 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/03-skills/claude-md/SKILL.md (attempt 3)
+2026-04-15 18:12:11 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/uk/CLAUDE.md (attempt 3)
+2026-04-15 18:12:11 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/03-skills/refactor/SKILL.md (attempt 3)
+2026-04-15 18:12:41 - ERROR - Translation failed: 
+2026-04-15 18:12:41 - ERROR - Attempt 3 failed for /Users/xd/Desktop/codes/claude-howto/docs/TASKS-20260401.md: 
+2026-04-15 18:12:41 - ERROR - ❌ Failed after 3 attempts: /Users/xd/Desktop/codes/claude-howto/docs/TASKS-20260401.md
+2026-04-15 18:12:41 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/uk/CODE_OF_CONDUCT.md (attempt 1)
+2026-04-15 18:12:41 - INFO - Progress: 51/81 - ❌ docs/TASKS-20260401.md
+2026-04-15 18:12:41 - ERROR - Translation failed: 
+2026-04-15 18:12:41 - ERROR - Attempt 3 failed for /Users/xd/Desktop/codes/claude-howto/uk/CLAUDE.md: 
+2026-04-15 18:12:41 - ERROR - ❌ Failed after 3 attempts: /Users/xd/Desktop/codes/claude-howto/uk/CLAUDE.md
+2026-04-15 18:12:41 - ERROR - Translation failed: 
+2026-04-15 18:12:41 - ERROR - Attempt 3 failed for /Users/xd/Desktop/codes/claude-howto/03-skills/refactor/SKILL.md: 
+2026-04-15 18:12:41 - ERROR - ❌ Failed after 3 attempts: /Users/xd/Desktop/codes/claude-howto/03-skills/refactor/SKILL.md
+2026-04-15 18:12:41 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/resources/DESIGN-SYSTEM.md (attempt 1)
+2026-04-15 18:12:41 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/03-skills/refactor/references/code-smells.md (attempt 1)
+2026-04-15 18:12:41 - ERROR - Translation failed: 
+2026-04-15 18:12:41 - ERROR - Attempt 3 failed for /Users/xd/Desktop/codes/claude-howto/03-skills/claude-md/SKILL.md: 
+2026-04-15 18:12:41 - ERROR - ❌ Failed after 3 attempts: /Users/xd/Desktop/codes/claude-howto/03-skills/claude-md/SKILL.md
+2026-04-15 18:12:41 - INFO - Progress: 52/81 - ❌ uk/CLAUDE.md
+2026-04-15 18:12:41 - INFO - Progress: 53/81 - ❌ 03-skills/refactor/SKILL.md
+2026-04-15 18:12:41 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/uk/CONTRIBUTING.md (attempt 1)
+2026-04-15 18:12:41 - INFO - Progress: 54/81 - ❌ 03-skills/claude-md/SKILL.md
+2026-04-15 18:12:41 - ERROR - Translation failed: 
+2026-04-15 18:12:41 - ERROR - Attempt 3 failed for /Users/xd/Desktop/codes/claude-howto/prompts/remotion-video.md: 
+2026-04-15 18:12:41 - ERROR - ❌ Failed after 3 attempts: /Users/xd/Desktop/codes/claude-howto/prompts/remotion-video.md
+2026-04-15 18:12:41 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/resources/README.md (attempt 1)
+2026-04-15 18:12:41 - INFO - Progress: 55/81 - ❌ prompts/remotion-video.md
+2026-04-15 18:13:11 - ERROR - Translation failed: 
+2026-04-15 18:13:11 - ERROR - Attempt 1 failed for /Users/xd/Desktop/codes/claude-howto/uk/CONTRIBUTING.md: 
+2026-04-15 18:13:11 - INFO - Retrying in 2s...
+2026-04-15 18:13:11 - ERROR - Translation failed: 
+2026-04-15 18:13:11 - ERROR - Attempt 1 failed for /Users/xd/Desktop/codes/claude-howto/03-skills/refactor/references/code-smells.md: 
+2026-04-15 18:13:11 - INFO - Retrying in 2s...
+2026-04-15 18:13:11 - ERROR - Translation failed: 
+2026-04-15 18:13:11 - ERROR - Attempt 1 failed for /Users/xd/Desktop/codes/claude-howto/resources/DESIGN-SYSTEM.md: 
+2026-04-15 18:13:11 - INFO - Retrying in 2s...
+2026-04-15 18:13:11 - ERROR - Translation failed: 
+2026-04-15 18:13:11 - ERROR - Attempt 1 failed for /Users/xd/Desktop/codes/claude-howto/resources/README.md: 
+2026-04-15 18:13:11 - INFO - Retrying in 2s...
+2026-04-15 18:13:11 - ERROR - Translation failed: 
+2026-04-15 18:13:11 - ERROR - Attempt 1 failed for /Users/xd/Desktop/codes/claude-howto/uk/CODE_OF_CONDUCT.md: 
+2026-04-15 18:13:11 - INFO - Retrying in 2s...
+2026-04-15 18:13:13 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/uk/CONTRIBUTING.md (attempt 2)
+2026-04-15 18:13:13 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/03-skills/refactor/references/code-smells.md (attempt 2)
+2026-04-15 18:13:13 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/resources/DESIGN-SYSTEM.md (attempt 2)
+2026-04-15 18:13:13 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/resources/README.md (attempt 2)
+2026-04-15 18:13:13 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/uk/CODE_OF_CONDUCT.md (attempt 2)
+2026-04-15 18:13:43 - ERROR - Translation failed: 
+2026-04-15 18:13:43 - ERROR - Attempt 2 failed for /Users/xd/Desktop/codes/claude-howto/resources/DESIGN-SYSTEM.md: 
+2026-04-15 18:13:43 - INFO - Retrying in 4s...
+2026-04-15 18:13:43 - ERROR - Translation failed: 
+2026-04-15 18:13:43 - ERROR - Attempt 2 failed for /Users/xd/Desktop/codes/claude-howto/03-skills/refactor/references/code-smells.md: 
+2026-04-15 18:13:43 - INFO - Retrying in 4s...
+2026-04-15 18:13:43 - ERROR - Translation failed: 
+2026-04-15 18:13:43 - ERROR - Attempt 2 failed for /Users/xd/Desktop/codes/claude-howto/uk/CONTRIBUTING.md: 
+2026-04-15 18:13:43 - INFO - Retrying in 4s...
+2026-04-15 18:13:43 - ERROR - Translation failed: 
+2026-04-15 18:13:43 - ERROR - Attempt 2 failed for /Users/xd/Desktop/codes/claude-howto/resources/README.md: 
+2026-04-15 18:13:43 - INFO - Retrying in 4s...
+2026-04-15 18:13:43 - ERROR - Translation failed: 
+2026-04-15 18:13:43 - ERROR - Attempt 2 failed for /Users/xd/Desktop/codes/claude-howto/uk/CODE_OF_CONDUCT.md: 
+2026-04-15 18:13:43 - INFO - Retrying in 4s...
+2026-04-15 18:13:47 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/resources/DESIGN-SYSTEM.md (attempt 3)
+2026-04-15 18:13:47 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/03-skills/refactor/references/code-smells.md (attempt 3)
+2026-04-15 18:13:47 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/uk/CONTRIBUTING.md (attempt 3)
+2026-04-15 18:13:47 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/resources/README.md (attempt 3)
+2026-04-15 18:13:47 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/uk/CODE_OF_CONDUCT.md (attempt 3)
+2026-04-15 18:14:17 - ERROR - Translation failed: 
+2026-04-15 18:14:17 - ERROR - Attempt 3 failed for /Users/xd/Desktop/codes/claude-howto/03-skills/refactor/references/code-smells.md: 
+2026-04-15 18:14:17 - ERROR - ❌ Failed after 3 attempts: /Users/xd/Desktop/codes/claude-howto/03-skills/refactor/references/code-smells.md
+2026-04-15 18:14:17 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/uk/INDEX.md (attempt 1)
+2026-04-15 18:14:17 - INFO - Progress: 56/81 - ❌ 03-skills/refactor/references/code-smells.md
+2026-04-15 18:14:17 - ERROR - Translation failed: 
+2026-04-15 18:14:17 - ERROR - Attempt 3 failed for /Users/xd/Desktop/codes/claude-howto/resources/DESIGN-SYSTEM.md: 
+2026-04-15 18:14:17 - ERROR - ❌ Failed after 3 attempts: /Users/xd/Desktop/codes/claude-howto/resources/DESIGN-SYSTEM.md
+2026-04-15 18:14:17 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/03-skills/refactor/references/refactoring-catalog.md (attempt 1)
+2026-04-15 18:14:17 - ERROR - Translation failed: 
+2026-04-15 18:14:17 - ERROR - Attempt 3 failed for /Users/xd/Desktop/codes/claude-howto/resources/README.md: 
+2026-04-15 18:14:17 - ERROR - ❌ Failed after 3 attempts: /Users/xd/Desktop/codes/claude-howto/resources/README.md
+2026-04-15 18:14:17 - ERROR - Translation failed: 
+2026-04-15 18:14:17 - ERROR - Attempt 3 failed for /Users/xd/Desktop/codes/claude-howto/uk/CONTRIBUTING.md: 
+2026-04-15 18:14:17 - ERROR - ❌ Failed after 3 attempts: /Users/xd/Desktop/codes/claude-howto/uk/CONTRIBUTING.md
+2026-04-15 18:14:17 - ERROR - Translation failed: 
+2026-04-15 18:14:17 - ERROR - Attempt 3 failed for /Users/xd/Desktop/codes/claude-howto/uk/CODE_OF_CONDUCT.md: 
+2026-04-15 18:14:17 - ERROR - ❌ Failed after 3 attempts: /Users/xd/Desktop/codes/claude-howto/uk/CODE_OF_CONDUCT.md
+2026-04-15 18:14:17 - INFO - Progress: 57/81 - ❌ resources/DESIGN-SYSTEM.md
+2026-04-15 18:14:17 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/resources.md (attempt 1)
+2026-04-15 18:14:17 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/03-skills/refactor/templates/refactoring-plan.md (attempt 1)
+2026-04-15 18:14:17 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/uk/LEARNING-ROADMAP.md (attempt 1)
+2026-04-15 18:14:17 - INFO - Progress: 58/81 - ❌ resources/README.md
+2026-04-15 18:14:17 - INFO - Progress: 59/81 - ❌ uk/CONTRIBUTING.md
+2026-04-15 18:14:17 - INFO - Progress: 60/81 - ❌ uk/CODE_OF_CONDUCT.md
+2026-04-15 18:14:47 - ERROR - Translation failed: 
+2026-04-15 18:14:47 - ERROR - Attempt 1 failed for /Users/xd/Desktop/codes/claude-howto/03-skills/refactor/templates/refactoring-plan.md: 
+2026-04-15 18:14:47 - INFO - Retrying in 2s...
+2026-04-15 18:14:47 - ERROR - Translation failed: 
+2026-04-15 18:14:47 - ERROR - Attempt 1 failed for /Users/xd/Desktop/codes/claude-howto/resources.md: 
+2026-04-15 18:14:47 - INFO - Retrying in 2s...
+2026-04-15 18:14:47 - ERROR - Translation failed: 
+2026-04-15 18:14:47 - ERROR - Attempt 1 failed for /Users/xd/Desktop/codes/claude-howto/03-skills/refactor/references/refactoring-catalog.md: 
+2026-04-15 18:14:47 - INFO - Retrying in 2s...
+2026-04-15 18:14:47 - ERROR - Translation failed: 
+2026-04-15 18:14:47 - ERROR - Attempt 1 failed for /Users/xd/Desktop/codes/claude-howto/uk/INDEX.md: 
+2026-04-15 18:14:47 - INFO - Retrying in 2s...
+2026-04-15 18:14:47 - ERROR - Translation failed: 
+2026-04-15 18:14:47 - ERROR - Attempt 1 failed for /Users/xd/Desktop/codes/claude-howto/uk/LEARNING-ROADMAP.md: 
+2026-04-15 18:14:47 - INFO - Retrying in 2s...
+2026-04-15 18:14:49 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/03-skills/refactor/templates/refactoring-plan.md (attempt 2)
+2026-04-15 18:14:49 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/resources.md (attempt 2)
+2026-04-15 18:14:49 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/03-skills/refactor/references/refactoring-catalog.md (attempt 2)
+2026-04-15 18:14:49 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/uk/INDEX.md (attempt 2)
+2026-04-15 18:14:49 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/uk/LEARNING-ROADMAP.md (attempt 2)
+2026-04-15 18:15:20 - ERROR - Translation failed: 
+2026-04-15 18:15:20 - ERROR - Attempt 2 failed for /Users/xd/Desktop/codes/claude-howto/uk/INDEX.md: 
+2026-04-15 18:15:20 - INFO - Retrying in 4s...
+2026-04-15 18:15:20 - ERROR - Translation failed: 
+2026-04-15 18:15:20 - ERROR - Attempt 2 failed for /Users/xd/Desktop/codes/claude-howto/03-skills/refactor/templates/refactoring-plan.md: 
+2026-04-15 18:15:20 - INFO - Retrying in 4s...
+2026-04-15 18:15:20 - ERROR - Translation failed: 
+2026-04-15 18:15:20 - ERROR - Attempt 2 failed for /Users/xd/Desktop/codes/claude-howto/resources.md: 
+2026-04-15 18:15:20 - INFO - Retrying in 4s...
+2026-04-15 18:15:20 - ERROR - Translation failed: 
+2026-04-15 18:15:20 - ERROR - Attempt 2 failed for /Users/xd/Desktop/codes/claude-howto/03-skills/refactor/references/refactoring-catalog.md: 
+2026-04-15 18:15:20 - INFO - Retrying in 4s...
+2026-04-15 18:15:20 - ERROR - Translation failed: 
+2026-04-15 18:15:20 - ERROR - Attempt 2 failed for /Users/xd/Desktop/codes/claude-howto/uk/LEARNING-ROADMAP.md: 
+2026-04-15 18:15:20 - INFO - Retrying in 4s...
+2026-04-15 18:15:24 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/uk/INDEX.md (attempt 3)
+2026-04-15 18:15:24 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/03-skills/refactor/templates/refactoring-plan.md (attempt 3)
+2026-04-15 18:15:24 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/resources.md (attempt 3)
+2026-04-15 18:15:24 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/03-skills/refactor/references/refactoring-catalog.md (attempt 3)
+2026-04-15 18:15:24 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/uk/LEARNING-ROADMAP.md (attempt 3)
+2026-04-15 18:15:54 - ERROR - Translation failed: 
+2026-04-15 18:15:54 - ERROR - Attempt 3 failed for /Users/xd/Desktop/codes/claude-howto/resources.md: 
+2026-04-15 18:15:54 - ERROR - ❌ Failed after 3 attempts: /Users/xd/Desktop/codes/claude-howto/resources.md
+2026-04-15 18:15:54 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/scripts/TRANSLATION_README.md (attempt 1)
+2026-04-15 18:15:54 - INFO - Progress: 61/81 - ❌ resources.md
+2026-04-15 18:15:54 - ERROR - Translation failed: 
+2026-04-15 18:15:54 - ERROR - Attempt 3 failed for /Users/xd/Desktop/codes/claude-howto/uk/LEARNING-ROADMAP.md: 
+2026-04-15 18:15:54 - ERROR - ❌ Failed after 3 attempts: /Users/xd/Desktop/codes/claude-howto/uk/LEARNING-ROADMAP.md
+2026-04-15 18:15:54 - ERROR - Translation failed: 
+2026-04-15 18:15:54 - ERROR - Attempt 3 failed for /Users/xd/Desktop/codes/claude-howto/03-skills/refactor/references/refactoring-catalog.md: 
+2026-04-15 18:15:54 - ERROR - ❌ Failed after 3 attempts: /Users/xd/Desktop/codes/claude-howto/03-skills/refactor/references/refactoring-catalog.md
+2026-04-15 18:15:54 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/04-subagents/README.md (attempt 1)
+2026-04-15 18:15:54 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/uk/QUICK_REFERENCE.md (attempt 1)
+2026-04-15 18:15:54 - ERROR - Translation failed: 
+2026-04-15 18:15:54 - ERROR - Attempt 3 failed for /Users/xd/Desktop/codes/claude-howto/uk/INDEX.md: 
+2026-04-15 18:15:54 - ERROR - ❌ Failed after 3 attempts: /Users/xd/Desktop/codes/claude-howto/uk/INDEX.md
+2026-04-15 18:15:54 - ERROR - Translation failed: 
+2026-04-15 18:15:54 - ERROR - Attempt 3 failed for /Users/xd/Desktop/codes/claude-howto/03-skills/refactor/templates/refactoring-plan.md: 
+2026-04-15 18:15:54 - ERROR - ❌ Failed after 3 attempts: /Users/xd/Desktop/codes/claude-howto/03-skills/refactor/templates/refactoring-plan.md
+2026-04-15 18:15:54 - INFO - Progress: 62/81 - ❌ uk/LEARNING-ROADMAP.md
+2026-04-15 18:15:54 - INFO - Progress: 63/81 - ❌ 03-skills/refactor/references/refactoring-catalog.md
+2026-04-15 18:15:54 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/uk/01-slash-commands/README.md (attempt 1)
+2026-04-15 18:15:54 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/05-mcp/README.md (attempt 1)
+2026-04-15 18:15:54 - INFO - Progress: 64/81 - ❌ uk/INDEX.md
+2026-04-15 18:15:54 - INFO - Progress: 65/81 - ❌ 03-skills/refactor/templates/refactoring-plan.md
+2026-04-15 18:16:24 - ERROR - Translation failed: 
+2026-04-15 18:16:24 - ERROR - Attempt 1 failed for /Users/xd/Desktop/codes/claude-howto/scripts/TRANSLATION_README.md: 
+2026-04-15 18:16:24 - INFO - Retrying in 2s...
+2026-04-15 18:16:24 - ERROR - Translation failed: 
+2026-04-15 18:16:24 - ERROR - Attempt 1 failed for /Users/xd/Desktop/codes/claude-howto/05-mcp/README.md: 
+2026-04-15 18:16:24 - INFO - Retrying in 2s...
+2026-04-15 18:16:24 - ERROR - Translation failed: 
+2026-04-15 18:16:24 - ERROR - Attempt 1 failed for /Users/xd/Desktop/codes/claude-howto/uk/QUICK_REFERENCE.md: 
+2026-04-15 18:16:24 - INFO - Retrying in 2s...
+2026-04-15 18:16:24 - ERROR - Translation failed: 
+2026-04-15 18:16:24 - ERROR - Attempt 1 failed for /Users/xd/Desktop/codes/claude-howto/04-subagents/README.md: 
+2026-04-15 18:16:24 - INFO - Retrying in 2s...
+2026-04-15 18:16:24 - ERROR - Translation failed: 
+2026-04-15 18:16:24 - ERROR - Attempt 1 failed for /Users/xd/Desktop/codes/claude-howto/uk/01-slash-commands/README.md: 
+2026-04-15 18:16:24 - INFO - Retrying in 2s...
+2026-04-15 18:16:26 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/scripts/TRANSLATION_README.md (attempt 2)
+2026-04-15 18:16:26 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/05-mcp/README.md (attempt 2)
+2026-04-15 18:16:26 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/uk/QUICK_REFERENCE.md (attempt 2)
+2026-04-15 18:16:26 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/04-subagents/README.md (attempt 2)
+2026-04-15 18:16:26 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/uk/01-slash-commands/README.md (attempt 2)
+2026-04-15 18:16:56 - ERROR - Translation failed: 
+2026-04-15 18:16:56 - ERROR - Attempt 2 failed for /Users/xd/Desktop/codes/claude-howto/scripts/TRANSLATION_README.md: 
+2026-04-15 18:16:56 - INFO - Retrying in 4s...
+2026-04-15 18:16:56 - ERROR - Translation failed: 
+2026-04-15 18:16:56 - ERROR - Attempt 2 failed for /Users/xd/Desktop/codes/claude-howto/uk/01-slash-commands/README.md: 
+2026-04-15 18:16:56 - INFO - Retrying in 4s...
+2026-04-15 18:16:56 - ERROR - Translation failed: 
+2026-04-15 18:16:56 - ERROR - Attempt 2 failed for /Users/xd/Desktop/codes/claude-howto/05-mcp/README.md: 
+2026-04-15 18:16:56 - INFO - Retrying in 4s...
+2026-04-15 18:16:56 - ERROR - Translation failed: 
+2026-04-15 18:16:56 - ERROR - Attempt 2 failed for /Users/xd/Desktop/codes/claude-howto/04-subagents/README.md: 
+2026-04-15 18:16:56 - INFO - Retrying in 4s...
+2026-04-15 18:16:56 - ERROR - Translation failed: 
+2026-04-15 18:16:56 - ERROR - Attempt 2 failed for /Users/xd/Desktop/codes/claude-howto/uk/QUICK_REFERENCE.md: 
+2026-04-15 18:16:56 - INFO - Retrying in 4s...
+2026-04-15 18:17:00 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/scripts/TRANSLATION_README.md (attempt 3)
+2026-04-15 18:17:00 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/uk/01-slash-commands/README.md (attempt 3)
+2026-04-15 18:17:00 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/05-mcp/README.md (attempt 3)
+2026-04-15 18:17:00 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/04-subagents/README.md (attempt 3)
+2026-04-15 18:17:00 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/uk/QUICK_REFERENCE.md (attempt 3)
+2026-04-15 18:17:30 - ERROR - Translation failed: 
+2026-04-15 18:17:30 - ERROR - Attempt 3 failed for /Users/xd/Desktop/codes/claude-howto/scripts/TRANSLATION_README.md: 
+2026-04-15 18:17:30 - ERROR - ❌ Failed after 3 attempts: /Users/xd/Desktop/codes/claude-howto/scripts/TRANSLATION_README.md
+2026-04-15 18:17:30 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/uk/README.md (attempt 1)
+2026-04-15 18:17:30 - INFO - Progress: 66/81 - ❌ scripts/TRANSLATION_README.md
+2026-04-15 18:17:30 - ERROR - Translation failed: 
+2026-04-15 18:17:30 - ERROR - Attempt 3 failed for /Users/xd/Desktop/codes/claude-howto/uk/01-slash-commands/README.md: 
+2026-04-15 18:17:30 - ERROR - ❌ Failed after 3 attempts: /Users/xd/Desktop/codes/claude-howto/uk/01-slash-commands/README.md
+2026-04-15 18:17:30 - ERROR - Translation failed: 
+2026-04-15 18:17:30 - ERROR - Attempt 3 failed for /Users/xd/Desktop/codes/claude-howto/04-subagents/README.md: 
+2026-04-15 18:17:30 - ERROR - ❌ Failed after 3 attempts: /Users/xd/Desktop/codes/claude-howto/04-subagents/README.md
+2026-04-15 18:17:30 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/uk/01-slash-commands/push-all.md (attempt 1)
+2026-04-15 18:17:30 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/06-hooks/README.md (attempt 1)
+2026-04-15 18:17:30 - ERROR - Translation failed: 
+2026-04-15 18:17:30 - ERROR - Attempt 3 failed for /Users/xd/Desktop/codes/claude-howto/uk/QUICK_REFERENCE.md: 
+2026-04-15 18:17:30 - ERROR - ❌ Failed after 3 attempts: /Users/xd/Desktop/codes/claude-howto/uk/QUICK_REFERENCE.md
+2026-04-15 18:17:30 - INFO - Progress: 67/81 - ❌ uk/01-slash-commands/README.md
+2026-04-15 18:17:30 - INFO - Progress: 68/81 - ❌ 04-subagents/README.md
+2026-04-15 18:17:30 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/uk/SECURITY.md (attempt 1)
+2026-04-15 18:17:30 - INFO - Progress: 69/81 - ❌ uk/QUICK_REFERENCE.md
+2026-04-15 18:17:30 - ERROR - Translation failed: 
+2026-04-15 18:17:30 - ERROR - Attempt 3 failed for /Users/xd/Desktop/codes/claude-howto/05-mcp/README.md: 
+2026-04-15 18:17:30 - ERROR - ❌ Failed after 3 attempts: /Users/xd/Desktop/codes/claude-howto/05-mcp/README.md
+2026-04-15 18:17:30 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/uk/02-memory/README.md (attempt 1)
+2026-04-15 18:17:30 - INFO - Progress: 70/81 - ❌ 05-mcp/README.md
+2026-04-15 18:18:00 - ERROR - Translation failed: 
+2026-04-15 18:18:00 - ERROR - Attempt 1 failed for /Users/xd/Desktop/codes/claude-howto/uk/01-slash-commands/push-all.md: 
+2026-04-15 18:18:00 - INFO - Retrying in 2s...
+2026-04-15 18:18:00 - ERROR - Translation failed: 
+2026-04-15 18:18:00 - ERROR - Attempt 1 failed for /Users/xd/Desktop/codes/claude-howto/uk/README.md: 
+2026-04-15 18:18:00 - INFO - Retrying in 2s...
+2026-04-15 18:18:00 - ERROR - Translation failed: 
+2026-04-15 18:18:00 - ERROR - Attempt 1 failed for /Users/xd/Desktop/codes/claude-howto/uk/SECURITY.md: 
+2026-04-15 18:18:00 - INFO - Retrying in 2s...
+2026-04-15 18:18:00 - ERROR - Translation failed: 
+2026-04-15 18:18:00 - ERROR - Attempt 1 failed for /Users/xd/Desktop/codes/claude-howto/06-hooks/README.md: 
+2026-04-15 18:18:00 - INFO - Retrying in 2s...
+2026-04-15 18:18:00 - ERROR - Translation failed: 
+2026-04-15 18:18:00 - ERROR - Attempt 1 failed for /Users/xd/Desktop/codes/claude-howto/uk/02-memory/README.md: 
+2026-04-15 18:18:00 - INFO - Retrying in 2s...
+2026-04-15 18:18:02 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/uk/01-slash-commands/push-all.md (attempt 2)
+2026-04-15 18:18:02 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/uk/README.md (attempt 2)
+2026-04-15 18:18:02 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/uk/SECURITY.md (attempt 2)
+2026-04-15 18:18:02 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/06-hooks/README.md (attempt 2)
+2026-04-15 18:18:02 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/uk/02-memory/README.md (attempt 2)
+2026-04-15 18:18:32 - ERROR - Translation failed: 
+2026-04-15 18:18:32 - ERROR - Attempt 2 failed for /Users/xd/Desktop/codes/claude-howto/06-hooks/README.md: 
+2026-04-15 18:18:32 - INFO - Retrying in 4s...
+2026-04-15 18:18:32 - ERROR - Translation failed: 
+2026-04-15 18:18:32 - ERROR - Attempt 2 failed for /Users/xd/Desktop/codes/claude-howto/uk/01-slash-commands/push-all.md: 
+2026-04-15 18:18:32 - INFO - Retrying in 4s...
+2026-04-15 18:18:32 - ERROR - Translation failed: 
+2026-04-15 18:18:32 - ERROR - Attempt 2 failed for /Users/xd/Desktop/codes/claude-howto/uk/SECURITY.md: 
+2026-04-15 18:18:32 - INFO - Retrying in 4s...
+2026-04-15 18:18:32 - ERROR - Translation failed: 
+2026-04-15 18:18:32 - ERROR - Attempt 2 failed for /Users/xd/Desktop/codes/claude-howto/uk/02-memory/README.md: 
+2026-04-15 18:18:32 - INFO - Retrying in 4s...
+2026-04-15 18:18:32 - ERROR - Translation failed: 
+2026-04-15 18:18:32 - ERROR - Attempt 2 failed for /Users/xd/Desktop/codes/claude-howto/uk/README.md: 
+2026-04-15 18:18:32 - INFO - Retrying in 4s...
+2026-04-15 18:18:36 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/06-hooks/README.md (attempt 3)
+2026-04-15 18:18:36 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/uk/01-slash-commands/push-all.md (attempt 3)
+2026-04-15 18:18:36 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/uk/SECURITY.md (attempt 3)
+2026-04-15 18:18:37 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/uk/02-memory/README.md (attempt 3)
+2026-04-15 18:18:37 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/uk/README.md (attempt 3)
+2026-04-15 18:19:07 - ERROR - Translation failed: 
+2026-04-15 18:19:07 - ERROR - Attempt 3 failed for /Users/xd/Desktop/codes/claude-howto/06-hooks/README.md: 
+2026-04-15 18:19:07 - ERROR - ❌ Failed after 3 attempts: /Users/xd/Desktop/codes/claude-howto/06-hooks/README.md
+2026-04-15 18:19:07 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/07-plugins/README.md (attempt 1)
+2026-04-15 18:19:07 - INFO - Progress: 71/81 - ❌ 06-hooks/README.md
+2026-04-15 18:19:07 - ERROR - Translation failed: 
+2026-04-15 18:19:07 - ERROR - Attempt 3 failed for /Users/xd/Desktop/codes/claude-howto/uk/README.md: 
+2026-04-15 18:19:07 - ERROR - ❌ Failed after 3 attempts: /Users/xd/Desktop/codes/claude-howto/uk/README.md
+2026-04-15 18:19:07 - ERROR - Translation failed: 
+2026-04-15 18:19:07 - ERROR - Attempt 3 failed for /Users/xd/Desktop/codes/claude-howto/uk/SECURITY.md: 
+2026-04-15 18:19:07 - ERROR - ❌ Failed after 3 attempts: /Users/xd/Desktop/codes/claude-howto/uk/SECURITY.md
+2026-04-15 18:19:07 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/uk/STYLE_GUIDE.md (attempt 1)
+2026-04-15 18:19:07 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/uk/03-skills/README.md (attempt 1)
+2026-04-15 18:19:07 - ERROR - Translation failed: 
+2026-04-15 18:19:07 - ERROR - Attempt 3 failed for /Users/xd/Desktop/codes/claude-howto/uk/02-memory/README.md: 
+2026-04-15 18:19:07 - ERROR - ❌ Failed after 3 attempts: /Users/xd/Desktop/codes/claude-howto/uk/02-memory/README.md
+2026-04-15 18:19:07 - ERROR - Translation failed: 
+2026-04-15 18:19:07 - ERROR - Attempt 3 failed for /Users/xd/Desktop/codes/claude-howto/uk/01-slash-commands/push-all.md: 
+2026-04-15 18:19:07 - ERROR - ❌ Failed after 3 attempts: /Users/xd/Desktop/codes/claude-howto/uk/01-slash-commands/push-all.md
+2026-04-15 18:19:07 - INFO - Progress: 72/81 - ❌ uk/README.md
+2026-04-15 18:19:07 - INFO - Progress: 73/81 - ❌ uk/SECURITY.md
+2026-04-15 18:19:07 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/08-checkpoints/README.md (attempt 1)
+2026-04-15 18:19:07 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/uk/TRANSLATION_NOTES.md (attempt 1)
+2026-04-15 18:19:07 - INFO - Progress: 74/81 - ❌ uk/02-memory/README.md
+2026-04-15 18:19:07 - INFO - Progress: 75/81 - ❌ uk/01-slash-commands/push-all.md
+2026-04-15 18:19:37 - ERROR - Translation failed: 
+2026-04-15 18:19:37 - ERROR - Attempt 1 failed for /Users/xd/Desktop/codes/claude-howto/uk/STYLE_GUIDE.md: 
+2026-04-15 18:19:37 - INFO - Retrying in 2s...
+2026-04-15 18:19:37 - ERROR - Translation failed: 
+2026-04-15 18:19:37 - ERROR - Attempt 1 failed for /Users/xd/Desktop/codes/claude-howto/08-checkpoints/README.md: 
+2026-04-15 18:19:37 - INFO - Retrying in 2s...
+2026-04-15 18:19:37 - ERROR - Translation failed: 
+2026-04-15 18:19:37 - ERROR - Attempt 1 failed for /Users/xd/Desktop/codes/claude-howto/uk/TRANSLATION_NOTES.md: 
+2026-04-15 18:19:37 - INFO - Retrying in 2s...
+2026-04-15 18:19:37 - ERROR - Translation failed: 
+2026-04-15 18:19:37 - ERROR - Attempt 1 failed for /Users/xd/Desktop/codes/claude-howto/07-plugins/README.md: 
+2026-04-15 18:19:37 - INFO - Retrying in 2s...
+2026-04-15 18:19:37 - ERROR - Translation failed: 
+2026-04-15 18:19:37 - ERROR - Attempt 1 failed for /Users/xd/Desktop/codes/claude-howto/uk/03-skills/README.md: 
+2026-04-15 18:19:37 - INFO - Retrying in 2s...
+2026-04-15 18:19:39 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/uk/STYLE_GUIDE.md (attempt 2)
+2026-04-15 18:19:39 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/08-checkpoints/README.md (attempt 2)
+2026-04-15 18:19:39 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/uk/TRANSLATION_NOTES.md (attempt 2)
+2026-04-15 18:19:39 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/07-plugins/README.md (attempt 2)
+2026-04-15 18:19:39 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/uk/03-skills/README.md (attempt 2)
+2026-04-15 18:20:09 - ERROR - Translation failed: 
+2026-04-15 18:20:09 - ERROR - Attempt 2 failed for /Users/xd/Desktop/codes/claude-howto/uk/TRANSLATION_NOTES.md: 
+2026-04-15 18:20:09 - INFO - Retrying in 4s...
+2026-04-15 18:20:09 - ERROR - Translation failed: 
+2026-04-15 18:20:09 - ERROR - Attempt 2 failed for /Users/xd/Desktop/codes/claude-howto/uk/STYLE_GUIDE.md: 
+2026-04-15 18:20:09 - INFO - Retrying in 4s...
+2026-04-15 18:20:09 - ERROR - Translation failed: 
+2026-04-15 18:20:09 - ERROR - Attempt 2 failed for /Users/xd/Desktop/codes/claude-howto/08-checkpoints/README.md: 
+2026-04-15 18:20:09 - INFO - Retrying in 4s...
+2026-04-15 18:20:09 - ERROR - Translation failed: 
+2026-04-15 18:20:09 - ERROR - Attempt 2 failed for /Users/xd/Desktop/codes/claude-howto/uk/03-skills/README.md: 
+2026-04-15 18:20:09 - INFO - Retrying in 4s...
+2026-04-15 18:20:09 - ERROR - Translation failed: 
+2026-04-15 18:20:09 - ERROR - Attempt 2 failed for /Users/xd/Desktop/codes/claude-howto/07-plugins/README.md: 
+2026-04-15 18:20:09 - INFO - Retrying in 4s...
+2026-04-15 18:20:13 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/uk/TRANSLATION_NOTES.md (attempt 3)
+2026-04-15 18:20:13 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/uk/STYLE_GUIDE.md (attempt 3)
+2026-04-15 18:20:13 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/08-checkpoints/README.md (attempt 3)
+2026-04-15 18:20:13 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/uk/03-skills/README.md (attempt 3)
+2026-04-15 18:20:13 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/07-plugins/README.md (attempt 3)
+2026-04-15 18:20:43 - ERROR - Translation failed: 
+2026-04-15 18:20:43 - ERROR - Attempt 3 failed for /Users/xd/Desktop/codes/claude-howto/uk/TRANSLATION_NOTES.md: 
+2026-04-15 18:20:43 - ERROR - ❌ Failed after 3 attempts: /Users/xd/Desktop/codes/claude-howto/uk/TRANSLATION_NOTES.md
+2026-04-15 18:20:43 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/uk/claude_concepts_guide.md (attempt 1)
+2026-04-15 18:20:43 - INFO - Progress: 76/81 - ❌ uk/TRANSLATION_NOTES.md
+2026-04-15 18:20:43 - ERROR - Translation failed: 
+2026-04-15 18:20:43 - ERROR - Attempt 3 failed for /Users/xd/Desktop/codes/claude-howto/08-checkpoints/README.md: 
+2026-04-15 18:20:43 - ERROR - ❌ Failed after 3 attempts: /Users/xd/Desktop/codes/claude-howto/08-checkpoints/README.md
+2026-04-15 18:20:43 - INFO - Progress: 77/81 - ❌ 08-checkpoints/README.md
+2026-04-15 18:20:43 - ERROR - Translation failed: 
+2026-04-15 18:20:43 - ERROR - Attempt 3 failed for /Users/xd/Desktop/codes/claude-howto/07-plugins/README.md: 
+2026-04-15 18:20:43 - ERROR - ❌ Failed after 3 attempts: /Users/xd/Desktop/codes/claude-howto/07-plugins/README.md
+2026-04-15 18:20:43 - ERROR - Translation failed: 
+2026-04-15 18:20:43 - ERROR - Attempt 3 failed for /Users/xd/Desktop/codes/claude-howto/uk/STYLE_GUIDE.md: 
+2026-04-15 18:20:43 - ERROR - ❌ Failed after 3 attempts: /Users/xd/Desktop/codes/claude-howto/uk/STYLE_GUIDE.md
+2026-04-15 18:20:43 - INFO - Progress: 78/81 - ❌ 07-plugins/README.md
+2026-04-15 18:20:43 - INFO - Progress: 79/81 - ❌ uk/STYLE_GUIDE.md
+2026-04-15 18:20:43 - ERROR - Translation failed: 
+2026-04-15 18:20:43 - ERROR - Attempt 3 failed for /Users/xd/Desktop/codes/claude-howto/uk/03-skills/README.md: 
+2026-04-15 18:20:43 - ERROR - ❌ Failed after 3 attempts: /Users/xd/Desktop/codes/claude-howto/uk/03-skills/README.md
+2026-04-15 18:20:43 - INFO - Progress: 80/81 - ❌ uk/03-skills/README.md
+2026-04-15 18:21:13 - ERROR - Translation failed: 
+2026-04-15 18:21:13 - ERROR - Attempt 1 failed for /Users/xd/Desktop/codes/claude-howto/uk/claude_concepts_guide.md: 
+2026-04-15 18:21:13 - INFO - Retrying in 2s...
+2026-04-15 18:21:15 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/uk/claude_concepts_guide.md (attempt 2)
+2026-04-15 18:21:45 - ERROR - Translation failed: 
+2026-04-15 18:21:45 - ERROR - Attempt 2 failed for /Users/xd/Desktop/codes/claude-howto/uk/claude_concepts_guide.md: 
+2026-04-15 18:21:45 - INFO - Retrying in 4s...
+2026-04-15 18:21:49 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/uk/claude_concepts_guide.md (attempt 3)
+2026-04-15 18:22:19 - ERROR - Translation failed: 
+2026-04-15 18:22:19 - ERROR - Attempt 3 failed for /Users/xd/Desktop/codes/claude-howto/uk/claude_concepts_guide.md: 
+2026-04-15 18:22:19 - ERROR - ❌ Failed after 3 attempts: /Users/xd/Desktop/codes/claude-howto/uk/claude_concepts_guide.md
+2026-04-15 18:22:19 - INFO - Progress: 81/81 - ❌ uk/claude_concepts_guide.md
+2026-04-15 18:22:19 - INFO - ============================================================
+2026-04-15 18:22:19 - INFO - 📊 Translation Complete
+2026-04-15 18:22:19 - INFO - ============================================================
+2026-04-15 18:22:19 - INFO - ✅ Successfully translated: 0 files
+2026-04-15 18:22:19 - INFO - ❌ Failed: 111 files
+2026-04-15 18:22:19 - INFO - ⏱️  Total time: 1639.67 seconds
+2026-04-15 18:22:19 - INFO - 📁 Log files: translation_logs/
+2026-04-15 18:22:19 - INFO - 
+Check translation_logs/errors.log for details

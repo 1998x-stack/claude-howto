@@ -1,0 +1,16 @@
+2026-04-15 20:54:48 - INFO - ============================================================
+2026-04-15 20:54:48 - INFO - 🌏 Markdown Translation System Starting
+2026-04-15 20:54:48 - INFO - ============================================================
+2026-04-15 20:54:48 - INFO - Root directory: /Users/xd/Desktop/codes/claude-howto
+2026-04-15 20:54:48 - INFO - Concurrent workers: 5
+2026-04-15 20:54:48 - INFO - Resume enabled: True
+2026-04-15 20:54:48 - INFO - 🔍 Discovering markdown files...
+2026-04-15 20:54:48 - INFO - Found 81 files to translate
+2026-04-15 20:54:48 - INFO - 🚀 Starting translation of 81 files
+2026-04-15 20:54:48 - INFO - Resuming: 0 completed, 101 failed
+2026-04-15 20:54:48 - INFO - Processing 81 files with concurrency 5
+2026-04-15 20:54:48 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/uk/03-skills/blog-draft/SKILL.md (attempt 1)
+2026-04-15 20:54:48 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/09-advanced-features/README.md (attempt 1)
+2026-04-15 20:54:48 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/uk/clean-code-rules.md (attempt 1)
+2026-04-15 20:54:48 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/uk/03-skills/claude-md/SKILL.md (attempt 1)
+2026-04-15 20:54:48 - INFO - Translating: /Users/xd/Desktop/codes/claude-howto/09-advanced-features/planning-mode-examples.md (attempt 1)
